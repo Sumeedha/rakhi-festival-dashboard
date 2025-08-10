@@ -1,0 +1,1001 @@
+Sibling Pair ID,Sister Name,Brother Name,Sister's Demand,Rakhi Type,Rakhi Tying Speed (sec),Brother's Gift,Sister's Emotion,Brother's Reaction,Celebration Location,Sweet Shared,Year
+SB-1001,Carolyn,John,Fitness Tracker,Traditional Rakhi,47.93,Bluetooth Speaker,Playful,Shocked,Online Video Call,Barfi,2022
+SB-1002,Jessica,Cameron,Designer Handbag,Silver Rakhi,22.6,Bluetooth Speaker,Angry,Nervous,Mall,Peda,2025
+SB-1003,Miranda,Jason,Gold Ring,Lumba Rakhi,19.14,Cash,Happy,Nervous,Online Video Call,Ladoo,2022
+SB-1004,Julie,Daniel,Perfume,Bracelet Rakhi,55.77,Sweets Box,Happy,Nervous,Cafe,Barfi,2023
+SB-1005,Andrea,Allen,Headphones,Cartoon Rakhi,10.43,Backpack,Happy,Excited,Office,Barfi,2022
+SB-1006,Linda,Christopher,Headphones,Lumba Rakhi,21.3,Teddy Bear,Joyful,Nervous,College Hostel,Jalebi,2024
+SB-1007,Kelly,Ryan,Books,Traditional Rakhi,28.35,Backpack,Angry,Shocked,College Hostel,Rasgulla,2025
+SB-1008,Christine,Keith,Makeup Kit,Traditional Rakhi,28.58,Cash,Angry,Excited,Office,Barfi,2023
+SB-1009,Elizabeth,Tyler,Books,Lumba Rakhi,57.25,Cash,Angry,Shocked,Home,Rasgulla,2025
+SB-1010,Danielle,Roger,Gold Ring,Eco-friendly Rakhi,47.92,Sweets Box,Angry,Shocked,Home,Kaju Katli,2024
+SB-1011,Denise,Aaron,Trip to Goa,Lumba Rakhi,22.49,Sweets Box,Sentimental,Grateful,College Hostel,Barfi,2025
+SB-1012,Sheryl,Michael,Trip to Goa,Eco-friendly Rakhi,54.02,Wrist Watch,Sentimental,Shocked,College Hostel,Ladoo,2022
+SB-1013,Valerie,William,Gold Ring,Zardosi Rakhi,22.77,Backpack,Joyful,Surprised,Home,Kaju Katli,2024
+SB-1014,Amber,Craig,Smartphone,Kundan Rakhi,29.38,Sweets Box,Angry,Nervous,Office,Rasgulla,2022
+SB-1015,Anna,Timothy,Smartphone,Zardosi Rakhi,31.97,Sneakers,Excited,Grateful,College Hostel,Peda,2022
+SB-1016,Amanda,James,Gold Ring,Cartoon Rakhi,59.78,Wrist Watch,Excited,Grateful,Online Video Call,Jalebi,2022
+SB-1017,Jenny,Chad,Books,Silver Rakhi,23.74,Wrist Watch,Angry,Nervous,Mall,Barfi,2025
+SB-1018,Shannon,Adam,Designer Handbag,Silver Rakhi,17.6,Wrist Watch,Sentimental,Happy,College Hostel,Jalebi,2022
+SB-1019,Nicole,Bradley,Shopping Voucher,Lumba Rakhi,15.43,Sweets Box,Happy,Happy,Office,Rasgulla,2022
+SB-1020,Judy,Brent,Trip to Goa,Zardosi Rakhi,44.43,Backpack,Excited,Shocked,Mall,Ladoo,2025
+SB-1021,Michele,Christopher,Fitness Tracker,Lumba Rakhi,31.15,Sneakers,Sentimental,Shocked,Mall,Barfi,2022
+SB-1022,Pamela,Daryl,Designer Handbag,Zardosi Rakhi,32.97,Gift Card,Excited,Excited,College Hostel,Ladoo,2023
+SB-1023,Christine,Lonnie,Books,Cartoon Rakhi,13.96,Chocolate Hamper,Playful,Happy,Mall,Gulab Jamun,2024
+SB-1024,Angela,Samuel,Perfume,Eco-friendly Rakhi,7.08,Wrist Watch,Excited,Excited,Mall,Ladoo,2023
+SB-1025,Jennifer,Billy,Headphones,Kundan Rakhi,31.3,Custom T-shirt,Joyful,Excited,Mall,Jalebi,2023
+SB-1026,Laurie,Michael,Gold Ring,Silver Rakhi,49.64,Teddy Bear,Playful,Nervous,Mall,Barfi,2025
+SB-1027,Olivia,Phillip,Trip to Goa,Zardosi Rakhi,32.15,Bluetooth Speaker,Excited,Nervous,Online Video Call,Barfi,2022
+SB-1028,Jennifer,Raymond,Gold Ring,Lumba Rakhi,42.02,Sneakers,Joyful,Happy,Office,Peda,2023
+SB-1029,Leslie,Joshua,Trip to Goa,Traditional Rakhi,50.71,Cash,Sentimental,Happy,Office,Jalebi,2025
+SB-1030,Lindsay,Michael,Gold Ring,Silver Rakhi,37.56,Custom T-shirt,Happy,Happy,Office,Barfi,2022
+SB-1031,Brittany,Joseph,Fitness Tracker,Silver Rakhi,58.98,Cash,Joyful,Shocked,Online Video Call,Barfi,2024
+SB-1032,Shelby,Jonathan,Perfume,Traditional Rakhi,24.38,Sweets Box,Happy,Nervous,Online Video Call,Ladoo,2025
+SB-1033,Lindsey,Ryan,Trip to Goa,Kundan Rakhi,7.11,Chocolate Hamper,Happy,Shocked,Online Video Call,Peda,2022
+SB-1034,Christy,Bradley,Trip to Goa,Bracelet Rakhi,25.42,Chocolate Hamper,Excited,Excited,College Hostel,Peda,2024
+SB-1035,Sharon,James,Gold Ring,Kundan Rakhi,41.82,Cash,Excited,Nervous,Home,Peda,2025
+SB-1036,Katherine,Connor,Perfume,Eco-friendly Rakhi,22.03,Bluetooth Speaker,Joyful,Nervous,College Hostel,Ladoo,2022
+SB-1037,Kara,Gary,Shopping Voucher,Cartoon Rakhi,20.41,Backpack,Playful,Shocked,Home,Kaju Katli,2022
+SB-1038,Ana,Alejandro,Smartphone,Silver Rakhi,12.49,Backpack,Happy,Nervous,Office,Gulab Jamun,2022
+SB-1039,Kristen,Kevin,Designer Handbag,Silver Rakhi,54.06,Chocolate Hamper,Playful,Excited,College Hostel,Ladoo,2025
+SB-1040,Jennifer,Jeremy,Makeup Kit,Cartoon Rakhi,47.23,Teddy Bear,Angry,Nervous,College Hostel,Rasgulla,2024
+SB-1041,Sheila,James,Fitness Tracker,Silver Rakhi,33.24,Gift Card,Sentimental,Happy,Home,Gulab Jamun,2025
+SB-1042,Melanie,Jack,Shopping Voucher,Traditional Rakhi,27.81,Custom T-shirt,Sentimental,Surprised,Office,Kaju Katli,2022
+SB-1043,Amy,Anthony,Makeup Kit,Silver Rakhi,35.54,Bluetooth Speaker,Sentimental,Grateful,Office,Barfi,2023
+SB-1044,Meghan,Sean,Smartphone,Lumba Rakhi,21.76,Wrist Watch,Angry,Nervous,Online Video Call,Ladoo,2025
+SB-1045,Tara,Jeffrey,Smartphone,Traditional Rakhi,50.69,Wrist Watch,Angry,Shocked,College Hostel,Rasgulla,2024
+SB-1046,Jennifer,Gordon,Headphones,Bracelet Rakhi,44.14,Backpack,Joyful,Excited,Mall,Ladoo,2025
+SB-1047,Michaela,Manuel,Smartphone,Eco-friendly Rakhi,13.71,Wrist Watch,Sentimental,Grateful,College Hostel,Gulab Jamun,2022
+SB-1048,Lindsey,Cory,Perfume,Bracelet Rakhi,24.27,Cash,Happy,Surprised,Home,Peda,2023
+SB-1049,Dawn,John,Smartphone,Kundan Rakhi,23.67,Wrist Watch,Playful,Excited,Office,Jalebi,2023
+SB-1050,April,Tony,Perfume,Cartoon Rakhi,44.73,Bluetooth Speaker,Happy,Nervous,Home,Jalebi,2024
+SB-1051,Morgan,Joshua,Makeup Kit,Zardosi Rakhi,11.73,Sweets Box,Sentimental,Excited,College Hostel,Kaju Katli,2023
+SB-1052,Theresa,Bradley,Shopping Voucher,Zardosi Rakhi,31.26,Sweets Box,Sentimental,Grateful,Cafe,Peda,2023
+SB-1053,Joy,Michael,Trip to Goa,Cartoon Rakhi,31.64,Custom T-shirt,Joyful,Nervous,Home,Ladoo,2022
+SB-1054,Melissa,Kevin,Makeup Kit,Traditional Rakhi,53.26,Custom T-shirt,Happy,Shocked,Cafe,Barfi,2024
+SB-1055,Kristin,Ricky,Makeup Kit,Eco-friendly Rakhi,43.38,Bluetooth Speaker,Playful,Excited,Cafe,Rasgulla,2022
+SB-1056,Megan,Joseph,Headphones,Silver Rakhi,13.31,Bluetooth Speaker,Playful,Nervous,Mall,Jalebi,2022
+SB-1057,Alexandra,James,Makeup Kit,Silver Rakhi,26.76,Gift Card,Excited,Nervous,Cafe,Ladoo,2025
+SB-1058,Amy,Joshua,Trip to Goa,Zardosi Rakhi,18.03,Bluetooth Speaker,Sentimental,Happy,Office,Ladoo,2024
+SB-1059,Theresa,Jordan,Headphones,Bracelet Rakhi,53.92,Wrist Watch,Playful,Excited,College Hostel,Kaju Katli,2022
+SB-1060,Stephanie,Alex,Gold Ring,Eco-friendly Rakhi,28.03,Cash,Excited,Nervous,Cafe,Ladoo,2023
+SB-1061,Christina,Paul,Fitness Tracker,Kundan Rakhi,28.64,Wrist Watch,Sentimental,Shocked,Cafe,Peda,2024
+SB-1062,Monica,Christopher,Shopping Voucher,Lumba Rakhi,17.64,Cash,Happy,Surprised,Office,Jalebi,2025
+SB-1063,Deanna,Dennis,Perfume,Traditional Rakhi,33.14,Gift Card,Angry,Shocked,Office,Gulab Jamun,2023
+SB-1064,Traci,Chad,Headphones,Cartoon Rakhi,36.9,Gift Card,Excited,Shocked,Office,Gulab Jamun,2025
+SB-1065,Kimberly,Ryan,Shopping Voucher,Zardosi Rakhi,16.54,Teddy Bear,Angry,Grateful,Mall,Kaju Katli,2024
+SB-1066,Regina,Brandon,Headphones,Eco-friendly Rakhi,11.73,Custom T-shirt,Joyful,Grateful,Online Video Call,Ladoo,2023
+SB-1067,Karen,Carlos,Smartphone,Bracelet Rakhi,32.92,Bluetooth Speaker,Angry,Nervous,Office,Jalebi,2025
+SB-1068,Monica,Donald,Fitness Tracker,Zardosi Rakhi,42.24,Wrist Watch,Joyful,Grateful,Cafe,Ladoo,2022
+SB-1069,Ashley,William,Makeup Kit,Lumba Rakhi,26.88,Backpack,Playful,Shocked,College Hostel,Ladoo,2022
+SB-1070,Donna,Jesus,Headphones,Zardosi Rakhi,54.57,Custom T-shirt,Sentimental,Nervous,Cafe,Ladoo,2023
+SB-1071,Jennifer,Eric,Gold Ring,Cartoon Rakhi,51.69,Chocolate Hamper,Sentimental,Excited,Online Video Call,Ladoo,2022
+SB-1072,Lori,James,Perfume,Kundan Rakhi,18.9,Backpack,Excited,Shocked,Cafe,Peda,2022
+SB-1073,Tanya,Brandon,Smartphone,Cartoon Rakhi,22.72,Teddy Bear,Playful,Nervous,Online Video Call,Ladoo,2023
+SB-1074,Lorraine,Stephen,Trip to Goa,Traditional Rakhi,15.34,Chocolate Hamper,Playful,Nervous,Office,Peda,2025
+SB-1075,Katrina,David,Trip to Goa,Traditional Rakhi,56.2,Gift Card,Happy,Grateful,Home,Kaju Katli,2023
+SB-1076,Carolyn,Gerald,Shopping Voucher,Eco-friendly Rakhi,38.37,Sweets Box,Happy,Happy,Online Video Call,Rasgulla,2022
+SB-1077,Karen,Joseph,Gold Ring,Bracelet Rakhi,56.68,Sweets Box,Angry,Surprised,Cafe,Ladoo,2022
+SB-1078,Lindsey,Michael,Smartphone,Silver Rakhi,18.43,Backpack,Joyful,Nervous,Home,Gulab Jamun,2022
+SB-1079,Samantha,Gerald,Perfume,Kundan Rakhi,45.7,Wrist Watch,Joyful,Nervous,Office,Ladoo,2023
+SB-1080,Sarah,Kenneth,Fitness Tracker,Zardosi Rakhi,23.62,Custom T-shirt,Angry,Surprised,College Hostel,Kaju Katli,2023
+SB-1081,Karen,Martin,Designer Handbag,Cartoon Rakhi,58.87,Bluetooth Speaker,Joyful,Shocked,Office,Gulab Jamun,2022
+SB-1082,Melissa,David,Gold Ring,Zardosi Rakhi,49.82,Sweets Box,Playful,Happy,Office,Barfi,2025
+SB-1083,Christine,Mason,Designer Handbag,Bracelet Rakhi,21.07,Teddy Bear,Happy,Excited,Cafe,Rasgulla,2022
+SB-1084,Stacy,Paul,Gold Ring,Kundan Rakhi,46.94,Bluetooth Speaker,Joyful,Nervous,Home,Kaju Katli,2023
+SB-1085,Valerie,Kevin,Books,Traditional Rakhi,18.58,Wrist Watch,Joyful,Happy,Mall,Gulab Jamun,2025
+SB-1086,Sierra,Brian,Designer Handbag,Bracelet Rakhi,13.08,Custom T-shirt,Playful,Grateful,Office,Ladoo,2023
+SB-1087,Destiny,Lawrence,Gold Ring,Kundan Rakhi,26.02,Cash,Sentimental,Shocked,College Hostel,Jalebi,2025
+SB-1088,Margaret,Alexander,Books,Zardosi Rakhi,15.24,Sneakers,Playful,Nervous,Online Video Call,Jalebi,2024
+SB-1089,Renee,Michael,Makeup Kit,Lumba Rakhi,39.62,Bluetooth Speaker,Sentimental,Happy,Office,Jalebi,2023
+SB-1090,Samantha,Arthur,Makeup Kit,Eco-friendly Rakhi,31.64,Cash,Playful,Grateful,Mall,Kaju Katli,2024
+SB-1091,Michele,Christopher,Fitness Tracker,Cartoon Rakhi,53.51,Backpack,Excited,Surprised,College Hostel,Gulab Jamun,2024
+SB-1092,Michelle,Mark,Shopping Voucher,Cartoon Rakhi,57.97,Bluetooth Speaker,Happy,Grateful,Mall,Rasgulla,2024
+SB-1093,Amber,Eric,Makeup Kit,Silver Rakhi,16.46,Custom T-shirt,Sentimental,Grateful,Mall,Rasgulla,2024
+SB-1094,Amy,Samuel,Trip to Goa,Silver Rakhi,19.02,Sweets Box,Excited,Nervous,Office,Kaju Katli,2022
+SB-1095,Tiffany,Eric,Perfume,Bracelet Rakhi,5.94,Bluetooth Speaker,Angry,Happy,College Hostel,Peda,2024
+SB-1096,Cynthia,Michael,Shopping Voucher,Traditional Rakhi,39,Bluetooth Speaker,Sentimental,Nervous,College Hostel,Gulab Jamun,2025
+SB-1097,Katelyn,Kevin,Perfume,Cartoon Rakhi,19.49,Bluetooth Speaker,Angry,Shocked,Office,Rasgulla,2024
+SB-1098,Katie,Robert,Books,Bracelet Rakhi,56.75,Bluetooth Speaker,Playful,Grateful,Home,Peda,2024
+SB-1099,Kaitlyn,Keith,Books,Cartoon Rakhi,34.78,Teddy Bear,Playful,Excited,Online Video Call,Gulab Jamun,2023
+SB-1100,Carol,Joshua,Shopping Voucher,Eco-friendly Rakhi,28.28,Sneakers,Playful,Surprised,Office,Gulab Jamun,2024
+SB-1101,Sarah,Dakota,Fitness Tracker,Silver Rakhi,14.15,Backpack,Sentimental,Happy,College Hostel,Kaju Katli,2022
+SB-1102,Melissa,Christopher,Designer Handbag,Cartoon Rakhi,5.03,Teddy Bear,Happy,Nervous,Office,Ladoo,2023
+SB-1103,Dana,Andrew,Trip to Goa,Zardosi Rakhi,58.63,Custom T-shirt,Sentimental,Nervous,Online Video Call,Gulab Jamun,2022
+SB-1104,Jennifer,Dylan,Gold Ring,Lumba Rakhi,11.04,Backpack,Joyful,Nervous,Office,Barfi,2024
+SB-1105,Tonya,Richard,Shopping Voucher,Traditional Rakhi,38.62,Teddy Bear,Playful,Happy,Office,Jalebi,2022
+SB-1106,Stephanie,Jeffrey,Fitness Tracker,Cartoon Rakhi,28.32,Sneakers,Sentimental,Excited,Mall,Kaju Katli,2024
+SB-1107,Krista,Eric,Makeup Kit,Eco-friendly Rakhi,43.93,Cash,Playful,Shocked,Online Video Call,Gulab Jamun,2023
+SB-1108,Sarah,Christopher,Smartphone,Zardosi Rakhi,22.04,Cash,Excited,Happy,Online Video Call,Kaju Katli,2023
+SB-1109,Anne,Christopher,Perfume,Eco-friendly Rakhi,42.16,Teddy Bear,Joyful,Nervous,Online Video Call,Gulab Jamun,2024
+SB-1110,Lynn,Eric,Books,Traditional Rakhi,26.95,Bluetooth Speaker,Happy,Happy,Mall,Peda,2025
+SB-1111,Tanya,Kevin,Fitness Tracker,Silver Rakhi,37.2,Wrist Watch,Excited,Grateful,Office,Gulab Jamun,2025
+SB-1112,Julie,Travis,Smartphone,Kundan Rakhi,15.16,Chocolate Hamper,Excited,Shocked,College Hostel,Rasgulla,2024
+SB-1113,Samantha,Charles,Headphones,Lumba Rakhi,53.11,Sweets Box,Angry,Grateful,Home,Kaju Katli,2025
+SB-1114,Kathryn,Daniel,Gold Ring,Traditional Rakhi,20.95,Chocolate Hamper,Excited,Nervous,Mall,Peda,2025
+SB-1115,Erin,Nicholas,Trip to Goa,Eco-friendly Rakhi,48.12,Gift Card,Sentimental,Surprised,Home,Peda,2023
+SB-1116,Jamie,Mark,Books,Zardosi Rakhi,44.85,Sneakers,Joyful,Surprised,Home,Barfi,2023
+SB-1117,Tiffany,Tyler,Makeup Kit,Silver Rakhi,47.94,Gift Card,Happy,Excited,Online Video Call,Peda,2022
+SB-1118,Morgan,Stephen,Makeup Kit,Kundan Rakhi,9.53,Teddy Bear,Joyful,Shocked,Cafe,Jalebi,2025
+SB-1119,Nicole,Joseph,Books,Bracelet Rakhi,41.11,Teddy Bear,Joyful,Surprised,Online Video Call,Gulab Jamun,2025
+SB-1120,Sierra,Joseph,Trip to Goa,Bracelet Rakhi,52.82,Gift Card,Angry,Shocked,Office,Jalebi,2023
+SB-1121,Laura,Daniel,Books,Zardosi Rakhi,54.14,Teddy Bear,Sentimental,Grateful,Cafe,Jalebi,2023
+SB-1122,Rhonda,Alvin,Trip to Goa,Bracelet Rakhi,23.63,Teddy Bear,Joyful,Happy,College Hostel,Barfi,2025
+SB-1123,Tara,Robert,Books,Kundan Rakhi,35.77,Cash,Happy,Surprised,Office,Peda,2022
+SB-1124,Jessica,Curtis,Smartphone,Kundan Rakhi,58.3,Custom T-shirt,Playful,Happy,Home,Gulab Jamun,2024
+SB-1125,Shannon,Joshua,Gold Ring,Kundan Rakhi,39.21,Chocolate Hamper,Excited,Shocked,Online Video Call,Jalebi,2022
+SB-1126,Cynthia,Shane,Makeup Kit,Zardosi Rakhi,49.25,Wrist Watch,Angry,Shocked,Office,Barfi,2024
+SB-1127,Angela,Patrick,Makeup Kit,Traditional Rakhi,33.09,Backpack,Playful,Happy,Online Video Call,Rasgulla,2025
+SB-1128,Caitlin,Robert,Designer Handbag,Zardosi Rakhi,34.21,Sneakers,Playful,Happy,Office,Rasgulla,2023
+SB-1129,Crystal,Johnny,Headphones,Eco-friendly Rakhi,54.01,Sweets Box,Sentimental,Nervous,Online Video Call,Gulab Jamun,2025
+SB-1130,Sarah,Eric,Smartphone,Traditional Rakhi,23.55,Bluetooth Speaker,Happy,Nervous,College Hostel,Ladoo,2023
+SB-1131,Sarah,Ryan,Books,Bracelet Rakhi,21.5,Chocolate Hamper,Happy,Grateful,Online Video Call,Barfi,2023
+SB-1132,Bianca,Jason,Makeup Kit,Eco-friendly Rakhi,17.35,Chocolate Hamper,Playful,Excited,Home,Gulab Jamun,2022
+SB-1133,Jennifer,Daniel,Designer Handbag,Traditional Rakhi,16.01,Sneakers,Playful,Surprised,Mall,Ladoo,2022
+SB-1134,Denise,Jaime,Designer Handbag,Bracelet Rakhi,9.36,Sneakers,Playful,Excited,Cafe,Rasgulla,2024
+SB-1135,Elizabeth,Joseph,Designer Handbag,Silver Rakhi,49.68,Bluetooth Speaker,Joyful,Nervous,Home,Kaju Katli,2024
+SB-1136,Lisa,Travis,Fitness Tracker,Silver Rakhi,52.03,Custom T-shirt,Angry,Shocked,College Hostel,Peda,2024
+SB-1137,Emily,Antonio,Books,Bracelet Rakhi,31.44,Sneakers,Playful,Shocked,Mall,Peda,2023
+SB-1138,Susan,Dylan,Trip to Goa,Traditional Rakhi,35.23,Gift Card,Playful,Nervous,Mall,Gulab Jamun,2022
+SB-1139,Karen,Gregory,Perfume,Silver Rakhi,16.46,Sneakers,Angry,Nervous,College Hostel,Rasgulla,2025
+SB-1140,Vanessa,Jesus,Shopping Voucher,Eco-friendly Rakhi,37.73,Bluetooth Speaker,Playful,Excited,Office,Gulab Jamun,2025
+SB-1141,Cheryl,Edward,Fitness Tracker,Lumba Rakhi,58.48,Chocolate Hamper,Playful,Nervous,Online Video Call,Peda,2024
+SB-1142,Savannah,Dakota,Trip to Goa,Lumba Rakhi,56.01,Sweets Box,Angry,Shocked,Home,Gulab Jamun,2022
+SB-1143,Melissa,Gregg,Gold Ring,Cartoon Rakhi,15.1,Backpack,Playful,Nervous,Online Video Call,Rasgulla,2023
+SB-1144,Amy,Robert,Books,Traditional Rakhi,16.94,Sweets Box,Excited,Shocked,College Hostel,Gulab Jamun,2023
+SB-1145,Shawna,Gerald,Fitness Tracker,Eco-friendly Rakhi,7.73,Teddy Bear,Angry,Grateful,Home,Peda,2022
+SB-1146,Andrea,William,Trip to Goa,Bracelet Rakhi,45.11,Chocolate Hamper,Sentimental,Surprised,Office,Barfi,2024
+SB-1147,Tiffany,Robert,Smartphone,Kundan Rakhi,29.05,Cash,Sentimental,Surprised,Online Video Call,Rasgulla,2023
+SB-1148,Kimberly,Adam,Makeup Kit,Bracelet Rakhi,55.36,Teddy Bear,Joyful,Shocked,College Hostel,Kaju Katli,2023
+SB-1149,Teresa,Charles,Trip to Goa,Zardosi Rakhi,46.25,Gift Card,Happy,Nervous,Online Video Call,Jalebi,2022
+SB-1150,Roberta,Paul,Perfume,Cartoon Rakhi,7.37,Sneakers,Playful,Excited,Cafe,Peda,2022
+SB-1151,Kim,Joseph,Designer Handbag,Cartoon Rakhi,45.44,Sweets Box,Happy,Nervous,Office,Ladoo,2023
+SB-1152,Cassandra,Tyler,Perfume,Silver Rakhi,32.06,Sneakers,Playful,Surprised,Online Video Call,Barfi,2022
+SB-1153,Karina,Keith,Makeup Kit,Bracelet Rakhi,45.4,Wrist Watch,Happy,Happy,Cafe,Peda,2024
+SB-1154,Angela,Gregory,Makeup Kit,Cartoon Rakhi,9.12,Teddy Bear,Playful,Excited,Cafe,Barfi,2022
+SB-1155,Megan,Brian,Shopping Voucher,Zardosi Rakhi,34.49,Cash,Excited,Shocked,College Hostel,Barfi,2022
+SB-1156,Tasha,Jesus,Designer Handbag,Eco-friendly Rakhi,47.42,Cash,Happy,Excited,College Hostel,Gulab Jamun,2025
+SB-1157,Michelle,Kevin,Designer Handbag,Cartoon Rakhi,20.82,Custom T-shirt,Happy,Surprised,College Hostel,Jalebi,2022
+SB-1158,Katherine,Anthony,Books,Zardosi Rakhi,21.45,Sneakers,Sentimental,Grateful,College Hostel,Rasgulla,2024
+SB-1159,Brianna,David,Makeup Kit,Cartoon Rakhi,11.27,Wrist Watch,Happy,Happy,Cafe,Jalebi,2022
+SB-1160,Ashley,Joseph,Fitness Tracker,Bracelet Rakhi,5.79,Sweets Box,Happy,Grateful,Online Video Call,Gulab Jamun,2023
+SB-1161,Carrie,Eric,Shopping Voucher,Kundan Rakhi,43.69,Sneakers,Sentimental,Happy,Cafe,Ladoo,2024
+SB-1162,Ashley,Miguel,Smartphone,Zardosi Rakhi,21.34,Bluetooth Speaker,Excited,Excited,Home,Barfi,2023
+SB-1163,Diana,Ryan,Shopping Voucher,Kundan Rakhi,10.64,Backpack,Sentimental,Excited,Online Video Call,Rasgulla,2025
+SB-1164,Alyssa,Gregory,Gold Ring,Eco-friendly Rakhi,27.19,Teddy Bear,Happy,Shocked,Office,Kaju Katli,2024
+SB-1165,Ashley,Kenneth,Trip to Goa,Lumba Rakhi,34.67,Cash,Playful,Shocked,Home,Jalebi,2022
+SB-1166,Melissa,Tony,Makeup Kit,Kundan Rakhi,18.71,Chocolate Hamper,Excited,Grateful,Mall,Rasgulla,2022
+SB-1167,Rhonda,Anthony,Headphones,Silver Rakhi,46.42,Cash,Playful,Nervous,Online Video Call,Rasgulla,2023
+SB-1168,Robin,Charles,Books,Silver Rakhi,24.51,Custom T-shirt,Playful,Surprised,Office,Barfi,2023
+SB-1169,Linda,Jesse,Smartphone,Bracelet Rakhi,53.61,Wrist Watch,Sentimental,Excited,Online Video Call,Jalebi,2023
+SB-1170,Pamela,Joe,Fitness Tracker,Eco-friendly Rakhi,37.84,Wrist Watch,Sentimental,Excited,Office,Rasgulla,2022
+SB-1171,Lisa,James,Trip to Goa,Kundan Rakhi,15.12,Cash,Sentimental,Excited,College Hostel,Jalebi,2025
+SB-1172,Jessica,Anthony,Headphones,Kundan Rakhi,41.22,Gift Card,Happy,Nervous,Cafe,Peda,2022
+SB-1173,Jennifer,Alex,Shopping Voucher,Lumba Rakhi,17.88,Cash,Happy,Shocked,Home,Peda,2023
+SB-1174,Lacey,Benjamin,Shopping Voucher,Lumba Rakhi,26.27,Chocolate Hamper,Angry,Nervous,College Hostel,Kaju Katli,2022
+SB-1175,Alice,Jack,Perfume,Traditional Rakhi,52.67,Sneakers,Happy,Surprised,Home,Rasgulla,2024
+SB-1176,Elizabeth,Dean,Perfume,Lumba Rakhi,19.59,Cash,Joyful,Nervous,Mall,Jalebi,2023
+SB-1177,Allison,Keith,Smartphone,Bracelet Rakhi,31.43,Sneakers,Joyful,Grateful,Office,Gulab Jamun,2025
+SB-1178,Cynthia,Russell,Fitness Tracker,Eco-friendly Rakhi,9.93,Sweets Box,Joyful,Grateful,Online Video Call,Kaju Katli,2025
+SB-1179,Rachel,Jeffrey,Trip to Goa,Silver Rakhi,29.1,Chocolate Hamper,Playful,Nervous,Mall,Gulab Jamun,2024
+SB-1180,Caitlin,Christopher,Fitness Tracker,Bracelet Rakhi,19.3,Backpack,Excited,Nervous,Mall,Gulab Jamun,2025
+SB-1181,Madeline,David,Makeup Kit,Eco-friendly Rakhi,49.27,Cash,Excited,Shocked,Cafe,Rasgulla,2023
+SB-1182,Jillian,Ryan,Designer Handbag,Traditional Rakhi,8.42,Wrist Watch,Angry,Surprised,Cafe,Rasgulla,2022
+SB-1183,Jackie,Nathaniel,Shopping Voucher,Bracelet Rakhi,6.9,Backpack,Joyful,Happy,Home,Kaju Katli,2023
+SB-1184,Michelle,Michael,Fitness Tracker,Cartoon Rakhi,31.35,Backpack,Happy,Nervous,Office,Kaju Katli,2024
+SB-1185,Valerie,Luis,Shopping Voucher,Zardosi Rakhi,11.2,Bluetooth Speaker,Angry,Grateful,Home,Ladoo,2023
+SB-1186,Theresa,Samuel,Trip to Goa,Cartoon Rakhi,19.98,Sneakers,Playful,Excited,College Hostel,Barfi,2022
+SB-1187,Meghan,Kenneth,Books,Eco-friendly Rakhi,9.88,Sweets Box,Excited,Happy,Cafe,Rasgulla,2024
+SB-1188,Andrea,Kyle,Books,Kundan Rakhi,46.76,Bluetooth Speaker,Sentimental,Grateful,Office,Gulab Jamun,2025
+SB-1189,Cynthia,Jonathan,Perfume,Traditional Rakhi,58.37,Sweets Box,Angry,Surprised,Online Video Call,Ladoo,2024
+SB-1190,Teresa,Matthew,Books,Lumba Rakhi,39.36,Sweets Box,Excited,Shocked,Online Video Call,Jalebi,2025
+SB-1191,Kimberly,Ray,Designer Handbag,Kundan Rakhi,54.82,Sweets Box,Sentimental,Nervous,College Hostel,Kaju Katli,2024
+SB-1192,Sara,William,Books,Lumba Rakhi,25.92,Chocolate Hamper,Angry,Nervous,Home,Gulab Jamun,2022
+SB-1193,Katherine,Jared,Makeup Kit,Cartoon Rakhi,5.06,Teddy Bear,Playful,Nervous,Cafe,Ladoo,2023
+SB-1194,Joy,Nicholas,Makeup Kit,Eco-friendly Rakhi,40.39,Teddy Bear,Happy,Excited,Office,Peda,2022
+SB-1195,Jennifer,William,Headphones,Lumba Rakhi,56.74,Teddy Bear,Sentimental,Shocked,Mall,Kaju Katli,2022
+SB-1196,Jacqueline,Robert,Designer Handbag,Kundan Rakhi,55.37,Sneakers,Angry,Surprised,Office,Peda,2025
+SB-1197,Haley,Jason,Gold Ring,Lumba Rakhi,12.97,Chocolate Hamper,Angry,Surprised,Home,Peda,2024
+SB-1198,Jillian,Dennis,Trip to Goa,Cartoon Rakhi,31.92,Sneakers,Excited,Shocked,Home,Ladoo,2022
+SB-1199,Gina,Gabriel,Fitness Tracker,Silver Rakhi,37.08,Sweets Box,Angry,Nervous,Cafe,Barfi,2025
+SB-1200,Ashley,Geoffrey,Smartphone,Lumba Rakhi,51.47,Sweets Box,Angry,Nervous,Online Video Call,Gulab Jamun,2025
+SB-1201,Rachel,Jason,Headphones,Eco-friendly Rakhi,56.67,Backpack,Playful,Grateful,College Hostel,Jalebi,2025
+SB-1202,Erin,Anthony,Trip to Goa,Zardosi Rakhi,29.78,Teddy Bear,Happy,Happy,Mall,Jalebi,2024
+SB-1203,Jessica,Antonio,Headphones,Cartoon Rakhi,18.86,Chocolate Hamper,Angry,Shocked,Cafe,Rasgulla,2025
+SB-1204,Tara,Eric,Gold Ring,Kundan Rakhi,28.07,Custom T-shirt,Excited,Happy,College Hostel,Jalebi,2023
+SB-1205,Rita,Kurt,Gold Ring,Eco-friendly Rakhi,58.08,Custom T-shirt,Angry,Grateful,Online Video Call,Rasgulla,2024
+SB-1206,Sandra,Jamie,Trip to Goa,Traditional Rakhi,27.51,Sneakers,Playful,Happy,Cafe,Barfi,2024
+SB-1207,Maureen,Patrick,Headphones,Cartoon Rakhi,45.57,Wrist Watch,Happy,Nervous,Online Video Call,Jalebi,2024
+SB-1208,Sarah,Zachary,Designer Handbag,Bracelet Rakhi,47.95,Sneakers,Playful,Surprised,Office,Barfi,2023
+SB-1209,Nicole,Jacob,Fitness Tracker,Kundan Rakhi,50.47,Bluetooth Speaker,Excited,Surprised,Online Video Call,Barfi,2025
+SB-1210,Kimberly,John,Trip to Goa,Eco-friendly Rakhi,45.02,Sneakers,Happy,Grateful,Office,Ladoo,2023
+SB-1211,Linda,Kevin,Shopping Voucher,Kundan Rakhi,10.74,Gift Card,Excited,Excited,Mall,Kaju Katli,2024
+SB-1212,Laura,Joseph,Smartphone,Cartoon Rakhi,19.72,Teddy Bear,Sentimental,Grateful,Office,Jalebi,2023
+SB-1213,Barbara,Andrew,Smartphone,Zardosi Rakhi,49.45,Gift Card,Happy,Shocked,Home,Rasgulla,2024
+SB-1214,Autumn,Daniel,Designer Handbag,Traditional Rakhi,13.91,Cash,Happy,Grateful,Cafe,Kaju Katli,2023
+SB-1215,Kristie,Daniel,Makeup Kit,Bracelet Rakhi,8.57,Sneakers,Excited,Excited,Office,Peda,2025
+SB-1216,Jacqueline,Joshua,Perfume,Kundan Rakhi,31.31,Sneakers,Playful,Nervous,Home,Gulab Jamun,2024
+SB-1217,Jennifer,Max,Makeup Kit,Eco-friendly Rakhi,7.41,Cash,Playful,Grateful,Online Video Call,Ladoo,2022
+SB-1218,Whitney,Ryan,Shopping Voucher,Traditional Rakhi,55,Custom T-shirt,Joyful,Shocked,Office,Barfi,2025
+SB-1219,Katrina,Michael,Fitness Tracker,Bracelet Rakhi,20.34,Wrist Watch,Happy,Happy,College Hostel,Barfi,2022
+SB-1220,Courtney,James,Trip to Goa,Zardosi Rakhi,26.64,Sneakers,Joyful,Grateful,Cafe,Jalebi,2022
+SB-1221,Vicki,John,Headphones,Cartoon Rakhi,33.16,Custom T-shirt,Joyful,Shocked,Home,Gulab Jamun,2023
+SB-1222,Tiffany,Jordan,Trip to Goa,Traditional Rakhi,22,Sweets Box,Sentimental,Excited,Mall,Gulab Jamun,2022
+SB-1223,Erica,Timothy,Headphones,Silver Rakhi,23.52,Sneakers,Excited,Nervous,Mall,Barfi,2024
+SB-1224,Laura,Michael,Trip to Goa,Silver Rakhi,42.82,Cash,Happy,Surprised,Online Video Call,Ladoo,2024
+SB-1225,Erin,Craig,Smartphone,Cartoon Rakhi,34.4,Sneakers,Joyful,Happy,Online Video Call,Jalebi,2025
+SB-1226,Madison,Eric,Shopping Voucher,Silver Rakhi,45.5,Wrist Watch,Excited,Excited,College Hostel,Rasgulla,2024
+SB-1227,Shannon,Chad,Trip to Goa,Traditional Rakhi,31.05,Bluetooth Speaker,Sentimental,Grateful,Cafe,Barfi,2024
+SB-1228,Jessica,Tanner,Makeup Kit,Bracelet Rakhi,59.15,Backpack,Joyful,Shocked,Cafe,Rasgulla,2024
+SB-1229,Katie,Jeremy,Shopping Voucher,Silver Rakhi,33.36,Chocolate Hamper,Excited,Happy,Office,Barfi,2023
+SB-1230,Mary,James,Smartphone,Kundan Rakhi,41.43,Gift Card,Playful,Happy,Mall,Rasgulla,2025
+SB-1231,Brianna,Harry,Books,Traditional Rakhi,8.25,Cash,Sentimental,Happy,Online Video Call,Ladoo,2024
+SB-1232,Michelle,Samuel,Shopping Voucher,Silver Rakhi,40.67,Bluetooth Speaker,Happy,Nervous,Cafe,Rasgulla,2025
+SB-1233,Sandra,Luis,Gold Ring,Lumba Rakhi,47.17,Gift Card,Angry,Nervous,College Hostel,Kaju Katli,2023
+SB-1234,Ana,Christopher,Designer Handbag,Lumba Rakhi,8.48,Gift Card,Happy,Surprised,Mall,Ladoo,2025
+SB-1235,Vanessa,Daniel,Smartphone,Traditional Rakhi,7.83,Custom T-shirt,Excited,Happy,Home,Gulab Jamun,2024
+SB-1236,Jennifer,Nicholas,Trip to Goa,Cartoon Rakhi,8.62,Sweets Box,Excited,Surprised,College Hostel,Ladoo,2022
+SB-1237,Amy,Alex,Smartphone,Eco-friendly Rakhi,51.33,Sweets Box,Excited,Excited,Home,Rasgulla,2024
+SB-1238,Rebekah,Joseph,Fitness Tracker,Silver Rakhi,49.85,Sneakers,Angry,Excited,Office,Barfi,2024
+SB-1239,Rebecca,Michael,Books,Kundan Rakhi,46.56,Gift Card,Joyful,Grateful,Mall,Rasgulla,2024
+SB-1240,Sarah,Christopher,Books,Traditional Rakhi,14.68,Bluetooth Speaker,Sentimental,Excited,College Hostel,Peda,2023
+SB-1241,Wendy,Rodney,Gold Ring,Lumba Rakhi,20.39,Teddy Bear,Excited,Happy,College Hostel,Kaju Katli,2024
+SB-1242,Sheryl,Alexander,Designer Handbag,Silver Rakhi,58,Cash,Sentimental,Happy,College Hostel,Ladoo,2024
+SB-1243,Sarah,Bryan,Headphones,Zardosi Rakhi,9.25,Cash,Angry,Surprised,College Hostel,Barfi,2024
+SB-1244,Mary,Daniel,Books,Lumba Rakhi,28.38,Teddy Bear,Playful,Nervous,Mall,Jalebi,2024
+SB-1245,Laura,Bob,Fitness Tracker,Silver Rakhi,18.1,Sweets Box,Joyful,Nervous,Online Video Call,Peda,2023
+SB-1246,Hailey,Daniel,Fitness Tracker,Zardosi Rakhi,45.56,Sneakers,Excited,Nervous,Mall,Gulab Jamun,2023
+SB-1247,Cheryl,Travis,Perfume,Zardosi Rakhi,34.49,Wrist Watch,Excited,Excited,Online Video Call,Ladoo,2025
+SB-1248,Amanda,Jeffrey,Designer Handbag,Zardosi Rakhi,33.45,Sneakers,Playful,Happy,Online Video Call,Rasgulla,2023
+SB-1249,April,Ryan,Books,Bracelet Rakhi,23.28,Wrist Watch,Playful,Surprised,College Hostel,Kaju Katli,2023
+SB-1250,Andrea,Anthony,Headphones,Eco-friendly Rakhi,8.17,Cash,Happy,Happy,College Hostel,Rasgulla,2025
+SB-1251,Katherine,Andrew,Trip to Goa,Kundan Rakhi,32.3,Chocolate Hamper,Playful,Grateful,College Hostel,Jalebi,2024
+SB-1252,Amanda,Brian,Smartphone,Zardosi Rakhi,57.31,Sweets Box,Joyful,Excited,Office,Rasgulla,2023
+SB-1253,Carrie,William,Perfume,Traditional Rakhi,53.66,Custom T-shirt,Playful,Nervous,College Hostel,Rasgulla,2023
+SB-1254,Christina,Peter,Designer Handbag,Traditional Rakhi,53.13,Wrist Watch,Sentimental,Nervous,Office,Ladoo,2022
+SB-1255,Alexis,Albert,Perfume,Silver Rakhi,25.42,Chocolate Hamper,Happy,Nervous,Home,Barfi,2023
+SB-1256,Cynthia,Michael,Gold Ring,Silver Rakhi,20.77,Sneakers,Angry,Surprised,College Hostel,Rasgulla,2024
+SB-1257,Audrey,Larry,Perfume,Traditional Rakhi,43.14,Sweets Box,Excited,Shocked,Office,Peda,2024
+SB-1258,Carol,John,Trip to Goa,Bracelet Rakhi,17.45,Cash,Joyful,Surprised,Online Video Call,Barfi,2022
+SB-1259,Jennifer,Robert,Makeup Kit,Zardosi Rakhi,18.08,Gift Card,Playful,Nervous,Cafe,Barfi,2023
+SB-1260,Ashley,Brandon,Fitness Tracker,Zardosi Rakhi,57.65,Gift Card,Sentimental,Excited,College Hostel,Kaju Katli,2023
+SB-1261,Sheila,Christopher,Gold Ring,Lumba Rakhi,58.29,Teddy Bear,Excited,Shocked,Office,Peda,2025
+SB-1262,Kaitlyn,Robert,Shopping Voucher,Zardosi Rakhi,43.08,Gift Card,Happy,Surprised,Mall,Barfi,2023
+SB-1263,Sherry,David,Designer Handbag,Kundan Rakhi,48.01,Bluetooth Speaker,Playful,Grateful,Office,Peda,2022
+SB-1264,Deborah,Kenneth,Books,Zardosi Rakhi,41.98,Backpack,Angry,Shocked,Mall,Jalebi,2024
+SB-1265,Catherine,William,Perfume,Kundan Rakhi,13,Cash,Excited,Nervous,Mall,Rasgulla,2022
+SB-1266,Terry,Jimmy,Designer Handbag,Bracelet Rakhi,10.05,Custom T-shirt,Joyful,Grateful,College Hostel,Ladoo,2025
+SB-1267,Cynthia,James,Perfume,Silver Rakhi,37.61,Chocolate Hamper,Angry,Excited,Mall,Ladoo,2024
+SB-1268,Misty,Alan,Shopping Voucher,Zardosi Rakhi,16.41,Wrist Watch,Excited,Excited,Mall,Ladoo,2025
+SB-1269,Claudia,Sean,Headphones,Kundan Rakhi,20.25,Backpack,Happy,Excited,Home,Gulab Jamun,2025
+SB-1270,Nicole,Robert,Smartphone,Bracelet Rakhi,50.6,Sweets Box,Excited,Grateful,College Hostel,Jalebi,2023
+SB-1271,Stacy,Gary,Gold Ring,Zardosi Rakhi,19.44,Chocolate Hamper,Sentimental,Happy,Online Video Call,Ladoo,2022
+SB-1272,Madison,Jeffrey,Designer Handbag,Eco-friendly Rakhi,33.57,Sweets Box,Happy,Excited,Cafe,Rasgulla,2023
+SB-1273,Lisa,Christopher,Perfume,Zardosi Rakhi,17.37,Cash,Angry,Excited,Home,Gulab Jamun,2023
+SB-1274,Pamela,Robert,Designer Handbag,Bracelet Rakhi,57.37,Bluetooth Speaker,Playful,Shocked,Online Video Call,Jalebi,2023
+SB-1275,Mikayla,Matthew,Designer Handbag,Cartoon Rakhi,32.69,Gift Card,Playful,Nervous,Online Video Call,Rasgulla,2025
+SB-1276,Elizabeth,William,Trip to Goa,Eco-friendly Rakhi,15.18,Bluetooth Speaker,Joyful,Excited,Online Video Call,Peda,2022
+SB-1277,Maria,Gregory,Headphones,Kundan Rakhi,38.06,Chocolate Hamper,Sentimental,Shocked,College Hostel,Gulab Jamun,2023
+SB-1278,Sharon,Travis,Designer Handbag,Eco-friendly Rakhi,24.09,Sweets Box,Angry,Grateful,Home,Kaju Katli,2025
+SB-1279,Mary,David,Designer Handbag,Traditional Rakhi,19.43,Teddy Bear,Angry,Excited,Cafe,Peda,2023
+SB-1280,Amanda,Timothy,Designer Handbag,Traditional Rakhi,9.47,Sweets Box,Joyful,Shocked,Mall,Ladoo,2024
+SB-1281,Karen,Benjamin,Perfume,Zardosi Rakhi,42.04,Teddy Bear,Angry,Surprised,Online Video Call,Peda,2025
+SB-1282,Gina,Ryan,Designer Handbag,Zardosi Rakhi,38.28,Chocolate Hamper,Joyful,Nervous,Online Video Call,Rasgulla,2025
+SB-1283,Jessica,Travis,Perfume,Silver Rakhi,45.96,Backpack,Happy,Happy,Home,Kaju Katli,2023
+SB-1284,Cindy,Paul,Headphones,Cartoon Rakhi,59.44,Bluetooth Speaker,Sentimental,Grateful,Office,Gulab Jamun,2025
+SB-1285,Sarah,Chase,Headphones,Kundan Rakhi,18.31,Chocolate Hamper,Happy,Happy,College Hostel,Kaju Katli,2025
+SB-1286,Denise,James,Shopping Voucher,Kundan Rakhi,49.8,Gift Card,Excited,Excited,Office,Jalebi,2022
+SB-1287,Sophia,Derrick,Makeup Kit,Eco-friendly Rakhi,7.47,Bluetooth Speaker,Happy,Grateful,Mall,Peda,2022
+SB-1288,Alyssa,Joseph,Headphones,Cartoon Rakhi,32.63,Backpack,Joyful,Nervous,Mall,Peda,2023
+SB-1289,Bridget,Richard,Shopping Voucher,Silver Rakhi,33.4,Cash,Angry,Happy,Home,Kaju Katli,2025
+SB-1290,Stephanie,Scott,Headphones,Bracelet Rakhi,6.21,Teddy Bear,Excited,Shocked,Cafe,Barfi,2022
+SB-1291,Carol,Timothy,Gold Ring,Zardosi Rakhi,37.74,Bluetooth Speaker,Sentimental,Grateful,Office,Gulab Jamun,2025
+SB-1292,Mary,Bradley,Shopping Voucher,Traditional Rakhi,43.22,Cash,Happy,Excited,Office,Ladoo,2023
+SB-1293,Brandi,Paul,Smartphone,Traditional Rakhi,44.26,Cash,Happy,Excited,College Hostel,Rasgulla,2022
+SB-1294,Jennifer,Dean,Designer Handbag,Zardosi Rakhi,29.52,Wrist Watch,Excited,Nervous,Cafe,Rasgulla,2022
+SB-1295,Lisa,Ryan,Headphones,Silver Rakhi,49.46,Custom T-shirt,Playful,Excited,Cafe,Peda,2023
+SB-1296,Hannah,Stephen,Shopping Voucher,Zardosi Rakhi,51.2,Bluetooth Speaker,Playful,Surprised,Online Video Call,Barfi,2022
+SB-1297,Susan,Randy,Designer Handbag,Cartoon Rakhi,46.27,Custom T-shirt,Excited,Happy,Home,Barfi,2025
+SB-1298,Tammy,Larry,Headphones,Bracelet Rakhi,14.36,Sneakers,Playful,Grateful,Home,Barfi,2023
+SB-1299,Susan,Matthew,Headphones,Traditional Rakhi,43.56,Teddy Bear,Sentimental,Shocked,College Hostel,Barfi,2022
+SB-1300,Heather,Steven,Headphones,Kundan Rakhi,28.89,Sweets Box,Angry,Excited,Online Video Call,Ladoo,2024
+SB-1301,Jade,William,Gold Ring,Eco-friendly Rakhi,30.92,Backpack,Playful,Happy,College Hostel,Gulab Jamun,2022
+SB-1302,Nicole,David,Fitness Tracker,Eco-friendly Rakhi,57.73,Sweets Box,Excited,Happy,Mall,Peda,2024
+SB-1303,Jane,Patrick,Makeup Kit,Kundan Rakhi,46.66,Custom T-shirt,Excited,Shocked,Online Video Call,Barfi,2024
+SB-1304,Jennifer,Ronald,Fitness Tracker,Kundan Rakhi,53.1,Sneakers,Excited,Grateful,College Hostel,Gulab Jamun,2022
+SB-1305,Jennifer,Alexander,Trip to Goa,Zardosi Rakhi,32.49,Custom T-shirt,Angry,Shocked,Home,Gulab Jamun,2024
+SB-1306,Elizabeth,William,Trip to Goa,Kundan Rakhi,50.02,Teddy Bear,Angry,Surprised,Online Video Call,Jalebi,2022
+SB-1307,Kristen,Troy,Fitness Tracker,Cartoon Rakhi,58.75,Backpack,Excited,Happy,Online Video Call,Kaju Katli,2025
+SB-1308,Jennifer,Jeffery,Shopping Voucher,Eco-friendly Rakhi,11.86,Custom T-shirt,Angry,Grateful,College Hostel,Peda,2025
+SB-1309,Cheryl,Todd,Gold Ring,Lumba Rakhi,33.13,Cash,Playful,Excited,Mall,Peda,2022
+SB-1310,Amber,Chris,Books,Bracelet Rakhi,18.38,Chocolate Hamper,Joyful,Shocked,Mall,Peda,2022
+SB-1311,Allison,Christopher,Designer Handbag,Silver Rakhi,17.84,Custom T-shirt,Sentimental,Excited,Cafe,Peda,2023
+SB-1312,Alexis,Jason,Designer Handbag,Bracelet Rakhi,24.96,Backpack,Sentimental,Grateful,Mall,Peda,2025
+SB-1313,Jessica,Charles,Books,Eco-friendly Rakhi,56.58,Sweets Box,Angry,Excited,Cafe,Kaju Katli,2022
+SB-1314,Deborah,Jeffrey,Makeup Kit,Silver Rakhi,37.26,Sweets Box,Excited,Nervous,Home,Barfi,2024
+SB-1315,Latoya,John,Smartphone,Silver Rakhi,17.07,Gift Card,Excited,Grateful,Cafe,Barfi,2022
+SB-1316,Taylor,Eric,Shopping Voucher,Lumba Rakhi,56.83,Teddy Bear,Joyful,Nervous,Cafe,Peda,2025
+SB-1317,Jessica,Joseph,Designer Handbag,Lumba Rakhi,18.52,Gift Card,Happy,Nervous,Cafe,Rasgulla,2023
+SB-1318,April,Kevin,Designer Handbag,Kundan Rakhi,16.84,Wrist Watch,Angry,Happy,Cafe,Gulab Jamun,2023
+SB-1319,Jordan,John,Fitness Tracker,Silver Rakhi,52.06,Sweets Box,Happy,Surprised,Online Video Call,Jalebi,2022
+SB-1320,Judith,Ryan,Designer Handbag,Lumba Rakhi,18.79,Bluetooth Speaker,Happy,Shocked,Mall,Ladoo,2022
+SB-1321,Sandra,David,Shopping Voucher,Traditional Rakhi,55.96,Wrist Watch,Excited,Surprised,Home,Peda,2024
+SB-1322,Jennifer,Charles,Designer Handbag,Kundan Rakhi,27.34,Wrist Watch,Angry,Shocked,Office,Gulab Jamun,2022
+SB-1323,Anna,Sean,Trip to Goa,Kundan Rakhi,43.21,Gift Card,Sentimental,Excited,Office,Barfi,2023
+SB-1324,Melinda,Gabriel,Headphones,Silver Rakhi,27.64,Gift Card,Angry,Happy,Home,Kaju Katli,2024
+SB-1325,Danielle,Richard,Trip to Goa,Zardosi Rakhi,48.08,Teddy Bear,Excited,Surprised,Online Video Call,Barfi,2022
+SB-1326,Valerie,William,Fitness Tracker,Silver Rakhi,17.61,Backpack,Excited,Surprised,Online Video Call,Jalebi,2022
+SB-1327,Jasmine,Alex,Makeup Kit,Kundan Rakhi,28.81,Bluetooth Speaker,Playful,Happy,Cafe,Kaju Katli,2022
+SB-1328,Stacy,William,Designer Handbag,Silver Rakhi,47.9,Gift Card,Angry,Surprised,Home,Gulab Jamun,2025
+SB-1329,Tonya,Michael,Headphones,Kundan Rakhi,58.8,Wrist Watch,Sentimental,Shocked,College Hostel,Peda,2024
+SB-1330,Bonnie,Zachary,Headphones,Silver Rakhi,21.84,Wrist Watch,Excited,Excited,Office,Ladoo,2023
+SB-1331,Sharon,David,Designer Handbag,Cartoon Rakhi,37.57,Teddy Bear,Happy,Surprised,Office,Barfi,2023
+SB-1332,Jodi,Bryan,Designer Handbag,Silver Rakhi,13.85,Backpack,Happy,Excited,Home,Barfi,2024
+SB-1333,Robin,Kelly,Designer Handbag,Lumba Rakhi,31.58,Sneakers,Joyful,Surprised,Cafe,Gulab Jamun,2022
+SB-1334,Andrea,Brian,Shopping Voucher,Silver Rakhi,14.76,Backpack,Playful,Grateful,Cafe,Barfi,2025
+SB-1335,Joanne,Christopher,Fitness Tracker,Zardosi Rakhi,28.68,Cash,Playful,Happy,Online Video Call,Peda,2023
+SB-1336,Sandra,Timothy,Perfume,Silver Rakhi,51.17,Custom T-shirt,Playful,Grateful,College Hostel,Peda,2022
+SB-1337,Patricia,Michael,Smartphone,Eco-friendly Rakhi,51.48,Teddy Bear,Sentimental,Grateful,Home,Kaju Katli,2023
+SB-1338,Cynthia,Marvin,Smartphone,Traditional Rakhi,58.48,Backpack,Excited,Shocked,Office,Jalebi,2024
+SB-1339,Cassie,Mario,Headphones,Lumba Rakhi,18.12,Custom T-shirt,Joyful,Grateful,Office,Ladoo,2023
+SB-1340,Whitney,Jose,Shopping Voucher,Eco-friendly Rakhi,54.35,Bluetooth Speaker,Happy,Nervous,Online Video Call,Rasgulla,2022
+SB-1341,Kristen,Donald,Fitness Tracker,Zardosi Rakhi,47.84,Custom T-shirt,Angry,Happy,Cafe,Barfi,2022
+SB-1342,Jessica,Samuel,Books,Silver Rakhi,17.02,Wrist Watch,Joyful,Nervous,Online Video Call,Rasgulla,2022
+SB-1343,Patricia,Edward,Perfume,Zardosi Rakhi,14.7,Wrist Watch,Sentimental,Excited,Online Video Call,Kaju Katli,2025
+SB-1344,Brenda,Christian,Gold Ring,Lumba Rakhi,12.53,Custom T-shirt,Happy,Nervous,Mall,Gulab Jamun,2023
+SB-1345,Melissa,Jose,Makeup Kit,Silver Rakhi,22.14,Custom T-shirt,Sentimental,Surprised,Home,Kaju Katli,2024
+SB-1346,Rose,Joseph,Headphones,Kundan Rakhi,36.51,Sneakers,Angry,Excited,College Hostel,Jalebi,2025
+SB-1347,Sharon,Michael,Books,Bracelet Rakhi,37.14,Custom T-shirt,Sentimental,Excited,College Hostel,Peda,2025
+SB-1348,Amanda,Dennis,Makeup Kit,Eco-friendly Rakhi,34.31,Wrist Watch,Playful,Shocked,Online Video Call,Gulab Jamun,2025
+SB-1349,Samantha,Ernest,Trip to Goa,Cartoon Rakhi,46.86,Custom T-shirt,Excited,Grateful,Cafe,Rasgulla,2022
+SB-1350,Brenda,Charles,Fitness Tracker,Bracelet Rakhi,18.34,Custom T-shirt,Playful,Surprised,Online Video Call,Jalebi,2022
+SB-1351,Crystal,Jeff,Trip to Goa,Silver Rakhi,26.33,Bluetooth Speaker,Excited,Surprised,Home,Jalebi,2025
+SB-1352,Cynthia,Dennis,Makeup Kit,Eco-friendly Rakhi,38.02,Chocolate Hamper,Happy,Excited,Online Video Call,Jalebi,2025
+SB-1353,Ruth,Gregory,Designer Handbag,Cartoon Rakhi,15.06,Custom T-shirt,Playful,Shocked,College Hostel,Ladoo,2022
+SB-1354,Ashley,Michael,Gold Ring,Silver Rakhi,31.79,Cash,Sentimental,Happy,Cafe,Rasgulla,2022
+SB-1355,Jillian,Brandon,Trip to Goa,Lumba Rakhi,54.45,Bluetooth Speaker,Excited,Surprised,Online Video Call,Ladoo,2022
+SB-1356,Casey,Jonathon,Headphones,Kundan Rakhi,10.16,Custom T-shirt,Playful,Grateful,Online Video Call,Kaju Katli,2022
+SB-1357,Kelsey,Stephen,Headphones,Bracelet Rakhi,54.64,Teddy Bear,Excited,Happy,Cafe,Barfi,2024
+SB-1358,Maria,Christopher,Makeup Kit,Bracelet Rakhi,16.91,Teddy Bear,Angry,Happy,Online Video Call,Kaju Katli,2023
+SB-1359,Nicole,Richard,Smartphone,Silver Rakhi,29.61,Cash,Sentimental,Happy,Online Video Call,Kaju Katli,2025
+SB-1360,Joy,Adam,Designer Handbag,Silver Rakhi,15.25,Gift Card,Sentimental,Excited,Office,Kaju Katli,2025
+SB-1361,Brenda,Jacob,Shopping Voucher,Zardosi Rakhi,46.36,Sweets Box,Angry,Surprised,Home,Gulab Jamun,2025
+SB-1362,Laura,Matthew,Headphones,Kundan Rakhi,27.69,Gift Card,Sentimental,Excited,Home,Gulab Jamun,2024
+SB-1363,Alicia,Alex,Gold Ring,Silver Rakhi,46.28,Bluetooth Speaker,Sentimental,Shocked,Office,Barfi,2024
+SB-1364,Amber,Edward,Designer Handbag,Lumba Rakhi,7.04,Chocolate Hamper,Playful,Nervous,Cafe,Jalebi,2024
+SB-1365,Shannon,Christopher,Makeup Kit,Traditional Rakhi,41.51,Sneakers,Playful,Shocked,Mall,Gulab Jamun,2022
+SB-1366,Brittany,Ivan,Gold Ring,Zardosi Rakhi,42.99,Sneakers,Angry,Nervous,College Hostel,Peda,2022
+SB-1367,Stephanie,Cole,Fitness Tracker,Cartoon Rakhi,27.82,Backpack,Joyful,Happy,Online Video Call,Rasgulla,2022
+SB-1368,Kimberly,Chad,Gold Ring,Eco-friendly Rakhi,13.54,Backpack,Sentimental,Shocked,Home,Barfi,2025
+SB-1369,Natasha,Michael,Perfume,Eco-friendly Rakhi,32.44,Sneakers,Sentimental,Nervous,Online Video Call,Gulab Jamun,2025
+SB-1370,Cassandra,Frank,Books,Silver Rakhi,16.21,Gift Card,Angry,Surprised,Mall,Rasgulla,2022
+SB-1371,Hannah,Mark,Makeup Kit,Traditional Rakhi,36.8,Sweets Box,Angry,Surprised,Mall,Peda,2024
+SB-1372,Michelle,Brian,Fitness Tracker,Traditional Rakhi,29.9,Cash,Joyful,Surprised,Cafe,Kaju Katli,2025
+SB-1373,Marie,Michael,Perfume,Bracelet Rakhi,25.28,Teddy Bear,Happy,Excited,Cafe,Ladoo,2025
+SB-1374,Patricia,Randy,Trip to Goa,Silver Rakhi,17.62,Backpack,Joyful,Nervous,Home,Ladoo,2024
+SB-1375,Allison,Joseph,Gold Ring,Traditional Rakhi,18.05,Custom T-shirt,Happy,Nervous,Office,Jalebi,2024
+SB-1376,Amanda,Corey,Makeup Kit,Traditional Rakhi,5.68,Custom T-shirt,Happy,Shocked,College Hostel,Ladoo,2024
+SB-1377,Laura,David,Headphones,Cartoon Rakhi,43.77,Teddy Bear,Angry,Grateful,Home,Ladoo,2023
+SB-1378,Margaret,Mark,Headphones,Lumba Rakhi,7.1,Chocolate Hamper,Excited,Excited,Mall,Gulab Jamun,2022
+SB-1379,Lisa,Mitchell,Gold Ring,Eco-friendly Rakhi,18.31,Wrist Watch,Happy,Nervous,Office,Jalebi,2024
+SB-1380,Andrea,Kevin,Fitness Tracker,Kundan Rakhi,6.58,Bluetooth Speaker,Playful,Grateful,Mall,Ladoo,2025
+SB-1381,Karen,Noah,Perfume,Zardosi Rakhi,45.47,Wrist Watch,Joyful,Happy,Mall,Ladoo,2024
+SB-1382,Tracy,Jamie,Designer Handbag,Lumba Rakhi,31.08,Sneakers,Sentimental,Happy,Office,Barfi,2024
+SB-1383,April,David,Makeup Kit,Kundan Rakhi,42.81,Bluetooth Speaker,Playful,Grateful,Mall,Kaju Katli,2022
+SB-1384,Laura,Robert,Makeup Kit,Cartoon Rakhi,28.24,Wrist Watch,Happy,Happy,Online Video Call,Peda,2023
+SB-1385,Brandy,Andrew,Designer Handbag,Bracelet Rakhi,12.32,Wrist Watch,Excited,Shocked,Office,Gulab Jamun,2024
+SB-1386,Connie,Adam,Makeup Kit,Kundan Rakhi,53.81,Teddy Bear,Playful,Grateful,Office,Barfi,2025
+SB-1387,Janice,Austin,Books,Cartoon Rakhi,47.22,Teddy Bear,Sentimental,Nervous,Online Video Call,Ladoo,2025
+SB-1388,Rebecca,Mark,Perfume,Cartoon Rakhi,24.9,Teddy Bear,Angry,Happy,Online Video Call,Rasgulla,2023
+SB-1389,Samantha,Sean,Gold Ring,Kundan Rakhi,32.51,Gift Card,Playful,Excited,Online Video Call,Rasgulla,2023
+SB-1390,Laura,Gerald,Perfume,Zardosi Rakhi,7.62,Bluetooth Speaker,Angry,Shocked,Online Video Call,Kaju Katli,2025
+SB-1391,Emily,Peter,Smartphone,Silver Rakhi,41.87,Bluetooth Speaker,Playful,Happy,Cafe,Kaju Katli,2024
+SB-1392,Angela,Anthony,Trip to Goa,Kundan Rakhi,15.51,Cash,Excited,Nervous,College Hostel,Jalebi,2024
+SB-1393,Lori,David,Books,Kundan Rakhi,9.8,Custom T-shirt,Excited,Excited,College Hostel,Peda,2022
+SB-1394,Krystal,Andrew,Gold Ring,Cartoon Rakhi,56.28,Gift Card,Happy,Surprised,Mall,Peda,2023
+SB-1395,Cindy,Timothy,Smartphone,Silver Rakhi,55.22,Gift Card,Happy,Surprised,Online Video Call,Gulab Jamun,2025
+SB-1396,Emily,James,Makeup Kit,Traditional Rakhi,43.42,Chocolate Hamper,Angry,Surprised,Home,Jalebi,2025
+SB-1397,Monica,Ryan,Gold Ring,Bracelet Rakhi,42.79,Gift Card,Sentimental,Nervous,Cafe,Barfi,2024
+SB-1398,Gabriela,Jason,Trip to Goa,Cartoon Rakhi,48.6,Wrist Watch,Excited,Surprised,Office,Peda,2023
+SB-1399,Nancy,Charles,Books,Traditional Rakhi,17.4,Chocolate Hamper,Joyful,Excited,Cafe,Jalebi,2022
+SB-1400,Kimberly,Douglas,Designer Handbag,Zardosi Rakhi,18.87,Sneakers,Sentimental,Surprised,Mall,Kaju Katli,2023
+SB-1401,Bailey,Eric,Designer Handbag,Traditional Rakhi,59.03,Wrist Watch,Sentimental,Shocked,Home,Jalebi,2023
+SB-1402,Molly,Isaac,Makeup Kit,Bracelet Rakhi,11.1,Sweets Box,Happy,Happy,Online Video Call,Barfi,2025
+SB-1403,Jennifer,Michael,Shopping Voucher,Cartoon Rakhi,39.89,Chocolate Hamper,Sentimental,Grateful,Cafe,Kaju Katli,2023
+SB-1404,Ashley,Terry,Designer Handbag,Lumba Rakhi,42.63,Sweets Box,Joyful,Excited,Mall,Rasgulla,2024
+SB-1405,Sandra,William,Shopping Voucher,Bracelet Rakhi,9.27,Cash,Happy,Excited,Office,Ladoo,2024
+SB-1406,Brenda,Zachary,Books,Bracelet Rakhi,33.12,Sneakers,Happy,Excited,Mall,Gulab Jamun,2023
+SB-1407,Alexis,Kyle,Books,Kundan Rakhi,31.5,Backpack,Sentimental,Excited,Home,Peda,2024
+SB-1408,Sarah,Matthew,Perfume,Zardosi Rakhi,14.29,Gift Card,Angry,Grateful,Home,Barfi,2023
+SB-1409,Samantha,Troy,Headphones,Bracelet Rakhi,49.06,Sneakers,Sentimental,Surprised,Home,Jalebi,2024
+SB-1410,Janice,Malik,Smartphone,Traditional Rakhi,20.16,Sweets Box,Sentimental,Nervous,Online Video Call,Kaju Katli,2023
+SB-1411,Shannon,Michael,Gold Ring,Kundan Rakhi,38.14,Bluetooth Speaker,Happy,Happy,Online Video Call,Jalebi,2023
+SB-1412,Joyce,Anthony,Designer Handbag,Bracelet Rakhi,59.16,Chocolate Hamper,Angry,Excited,Mall,Peda,2024
+SB-1413,Wanda,Kenneth,Fitness Tracker,Kundan Rakhi,56.52,Bluetooth Speaker,Happy,Grateful,College Hostel,Kaju Katli,2025
+SB-1414,Amanda,Shane,Makeup Kit,Lumba Rakhi,21.85,Gift Card,Angry,Grateful,Home,Jalebi,2023
+SB-1415,Laurie,Jerry,Trip to Goa,Bracelet Rakhi,12.42,Teddy Bear,Angry,Nervous,Online Video Call,Kaju Katli,2025
+SB-1416,Maria,Antonio,Fitness Tracker,Lumba Rakhi,16.87,Wrist Watch,Happy,Nervous,Mall,Jalebi,2022
+SB-1417,Deborah,Bruce,Smartphone,Lumba Rakhi,7.81,Teddy Bear,Sentimental,Excited,Home,Kaju Katli,2025
+SB-1418,Laurie,Daniel,Fitness Tracker,Traditional Rakhi,12.79,Gift Card,Happy,Surprised,Online Video Call,Gulab Jamun,2024
+SB-1419,Nicole,Alex,Designer Handbag,Silver Rakhi,24.34,Bluetooth Speaker,Excited,Shocked,Office,Rasgulla,2025
+SB-1420,Angela,Joseph,Trip to Goa,Traditional Rakhi,25.5,Wrist Watch,Playful,Grateful,College Hostel,Rasgulla,2024
+SB-1421,Emily,Manuel,Smartphone,Bracelet Rakhi,33.77,Sweets Box,Joyful,Excited,Cafe,Gulab Jamun,2025
+SB-1422,Diane,Zachary,Books,Kundan Rakhi,19.29,Bluetooth Speaker,Sentimental,Happy,Online Video Call,Jalebi,2023
+SB-1423,Kathy,Aaron,Fitness Tracker,Silver Rakhi,27.78,Sneakers,Excited,Surprised,Office,Kaju Katli,2023
+SB-1424,Jessica,Andrew,Shopping Voucher,Silver Rakhi,32.84,Teddy Bear,Happy,Shocked,Home,Gulab Jamun,2024
+SB-1425,Barbara,Kenneth,Perfume,Kundan Rakhi,31.81,Cash,Angry,Surprised,College Hostel,Rasgulla,2025
+SB-1426,Kimberly,Jason,Fitness Tracker,Eco-friendly Rakhi,37.72,Backpack,Happy,Excited,Cafe,Jalebi,2023
+SB-1427,Elizabeth,Peter,Books,Silver Rakhi,25.83,Chocolate Hamper,Sentimental,Shocked,Online Video Call,Ladoo,2025
+SB-1428,Mary,Tim,Trip to Goa,Traditional Rakhi,11.21,Custom T-shirt,Happy,Nervous,Mall,Peda,2022
+SB-1429,Susan,Jonathan,Trip to Goa,Eco-friendly Rakhi,41.13,Sneakers,Playful,Excited,Office,Peda,2025
+SB-1430,Adrienne,Charles,Smartphone,Cartoon Rakhi,27.5,Sneakers,Excited,Surprised,Online Video Call,Ladoo,2025
+SB-1431,Rachael,Daniel,Gold Ring,Lumba Rakhi,54.09,Bluetooth Speaker,Joyful,Excited,Mall,Jalebi,2024
+SB-1432,Nicole,Larry,Perfume,Bracelet Rakhi,46.62,Teddy Bear,Angry,Grateful,Cafe,Peda,2023
+SB-1433,Cassandra,David,Smartphone,Cartoon Rakhi,12.36,Bluetooth Speaker,Angry,Nervous,Cafe,Jalebi,2025
+SB-1434,Kristie,Brian,Fitness Tracker,Eco-friendly Rakhi,36.71,Sweets Box,Angry,Happy,Cafe,Barfi,2023
+SB-1435,Angela,David,Gold Ring,Lumba Rakhi,35.28,Bluetooth Speaker,Sentimental,Grateful,College Hostel,Kaju Katli,2024
+SB-1436,Maria,Chad,Books,Bracelet Rakhi,21.94,Sneakers,Playful,Happy,Cafe,Barfi,2023
+SB-1437,Rebecca,Edward,Makeup Kit,Bracelet Rakhi,37.79,Chocolate Hamper,Sentimental,Surprised,Online Video Call,Kaju Katli,2023
+SB-1438,Vanessa,Mark,Trip to Goa,Traditional Rakhi,24.15,Cash,Sentimental,Shocked,College Hostel,Ladoo,2022
+SB-1439,Allison,William,Gold Ring,Lumba Rakhi,37.57,Bluetooth Speaker,Sentimental,Shocked,Home,Jalebi,2025
+SB-1440,Leah,Jonathan,Perfume,Cartoon Rakhi,34.72,Teddy Bear,Playful,Shocked,Office,Rasgulla,2023
+SB-1441,Amanda,Phillip,Headphones,Cartoon Rakhi,36.14,Wrist Watch,Sentimental,Surprised,Mall,Gulab Jamun,2023
+SB-1442,Brittany,Joseph,Fitness Tracker,Traditional Rakhi,39.29,Backpack,Playful,Grateful,Office,Rasgulla,2022
+SB-1443,Madeline,Miguel,Shopping Voucher,Silver Rakhi,18.36,Wrist Watch,Joyful,Excited,Mall,Rasgulla,2024
+SB-1444,Rebekah,Bruce,Shopping Voucher,Traditional Rakhi,24.76,Cash,Excited,Shocked,Online Video Call,Peda,2024
+SB-1445,Erica,Duane,Fitness Tracker,Zardosi Rakhi,26.37,Wrist Watch,Angry,Happy,Online Video Call,Barfi,2024
+SB-1446,Maria,Samuel,Fitness Tracker,Kundan Rakhi,31.72,Cash,Playful,Grateful,Online Video Call,Jalebi,2024
+SB-1447,Jennifer,George,Perfume,Zardosi Rakhi,51.68,Chocolate Hamper,Playful,Surprised,College Hostel,Jalebi,2025
+SB-1448,Denise,Mark,Makeup Kit,Kundan Rakhi,48.82,Backpack,Angry,Shocked,College Hostel,Rasgulla,2023
+SB-1449,Kristina,Johnny,Trip to Goa,Cartoon Rakhi,22.55,Cash,Playful,Surprised,Online Video Call,Peda,2024
+SB-1450,Susan,Anthony,Designer Handbag,Silver Rakhi,9.56,Chocolate Hamper,Excited,Shocked,Office,Gulab Jamun,2022
+SB-1451,Diana,Christopher,Fitness Tracker,Lumba Rakhi,48.82,Chocolate Hamper,Happy,Surprised,Mall,Kaju Katli,2023
+SB-1452,Jennifer,David,Perfume,Traditional Rakhi,55.05,Backpack,Playful,Nervous,Office,Kaju Katli,2025
+SB-1453,Brittany,Christian,Headphones,Eco-friendly Rakhi,57.97,Backpack,Sentimental,Excited,Office,Barfi,2025
+SB-1454,Jaime,John,Trip to Goa,Traditional Rakhi,45.73,Wrist Watch,Excited,Surprised,Home,Ladoo,2022
+SB-1455,Kelly,John,Perfume,Bracelet Rakhi,39.11,Sweets Box,Angry,Happy,Cafe,Ladoo,2022
+SB-1456,Megan,Brett,Designer Handbag,Cartoon Rakhi,51.43,Teddy Bear,Angry,Nervous,Mall,Jalebi,2022
+SB-1457,Emily,Matthew,Designer Handbag,Traditional Rakhi,8.45,Bluetooth Speaker,Playful,Surprised,College Hostel,Kaju Katli,2025
+SB-1458,Kim,Joseph,Gold Ring,Eco-friendly Rakhi,16.46,Gift Card,Joyful,Excited,College Hostel,Kaju Katli,2022
+SB-1459,Samantha,Justin,Trip to Goa,Silver Rakhi,53.53,Sneakers,Sentimental,Nervous,Office,Jalebi,2022
+SB-1460,Judy,Marcus,Trip to Goa,Traditional Rakhi,40.8,Wrist Watch,Excited,Happy,Online Video Call,Barfi,2023
+SB-1461,Chloe,Jason,Headphones,Zardosi Rakhi,19.12,Gift Card,Joyful,Surprised,Home,Kaju Katli,2025
+SB-1462,Kimberly,William,Designer Handbag,Lumba Rakhi,26.43,Chocolate Hamper,Joyful,Surprised,Office,Jalebi,2024
+SB-1463,Brittany,Terry,Headphones,Lumba Rakhi,33.11,Custom T-shirt,Angry,Grateful,Online Video Call,Jalebi,2025
+SB-1464,Jacqueline,Tony,Books,Lumba Rakhi,8.03,Cash,Excited,Surprised,Home,Gulab Jamun,2022
+SB-1465,Kelsey,James,Shopping Voucher,Cartoon Rakhi,41.44,Bluetooth Speaker,Excited,Shocked,Online Video Call,Barfi,2025
+SB-1466,Susan,Nicholas,Smartphone,Lumba Rakhi,27.42,Teddy Bear,Excited,Excited,Cafe,Kaju Katli,2023
+SB-1467,Denise,Steven,Gold Ring,Traditional Rakhi,10.44,Gift Card,Angry,Surprised,Cafe,Barfi,2023
+SB-1468,Tiffany,Alex,Smartphone,Lumba Rakhi,28.25,Custom T-shirt,Sentimental,Shocked,College Hostel,Gulab Jamun,2025
+SB-1469,Tina,Timothy,Headphones,Lumba Rakhi,25.12,Cash,Excited,Happy,Home,Rasgulla,2025
+SB-1470,Kimberly,Peter,Books,Silver Rakhi,30.44,Teddy Bear,Joyful,Shocked,Online Video Call,Kaju Katli,2022
+SB-1471,Wendy,Nicholas,Smartphone,Cartoon Rakhi,34.1,Wrist Watch,Angry,Shocked,Home,Peda,2022
+SB-1472,Kristen,Gregory,Gold Ring,Kundan Rakhi,21.1,Teddy Bear,Angry,Shocked,Online Video Call,Rasgulla,2022
+SB-1473,Jamie,Clinton,Books,Eco-friendly Rakhi,49.12,Teddy Bear,Sentimental,Shocked,Cafe,Jalebi,2024
+SB-1474,Heather,Daniel,Designer Handbag,Eco-friendly Rakhi,57.17,Backpack,Excited,Surprised,College Hostel,Kaju Katli,2023
+SB-1475,Kari,Joshua,Headphones,Traditional Rakhi,17.54,Teddy Bear,Angry,Surprised,Cafe,Kaju Katli,2022
+SB-1476,Dominique,William,Fitness Tracker,Zardosi Rakhi,55.13,Teddy Bear,Angry,Excited,Online Video Call,Ladoo,2023
+SB-1477,Brittany,Eric,Fitness Tracker,Eco-friendly Rakhi,14.22,Sneakers,Angry,Happy,Cafe,Barfi,2022
+SB-1478,Amy,Jon,Fitness Tracker,Bracelet Rakhi,58.46,Gift Card,Excited,Grateful,College Hostel,Rasgulla,2023
+SB-1479,Taylor,John,Fitness Tracker,Bracelet Rakhi,20.52,Sneakers,Sentimental,Shocked,Home,Jalebi,2024
+SB-1480,Cynthia,Craig,Books,Kundan Rakhi,25.21,Teddy Bear,Playful,Grateful,Home,Peda,2022
+SB-1481,Brittany,Arthur,Shopping Voucher,Zardosi Rakhi,17.98,Wrist Watch,Excited,Shocked,Online Video Call,Peda,2025
+SB-1482,Cassidy,Aaron,Books,Traditional Rakhi,25.57,Cash,Sentimental,Surprised,Cafe,Gulab Jamun,2025
+SB-1483,Tanya,Robert,Designer Handbag,Cartoon Rakhi,9.22,Cash,Joyful,Excited,Cafe,Gulab Jamun,2022
+SB-1484,Amber,Thomas,Fitness Tracker,Zardosi Rakhi,21.54,Gift Card,Happy,Excited,Office,Gulab Jamun,2022
+SB-1485,Isabella,Jeff,Designer Handbag,Lumba Rakhi,59.07,Sweets Box,Joyful,Surprised,Home,Ladoo,2023
+SB-1486,Judy,Kevin,Books,Cartoon Rakhi,8.21,Sweets Box,Playful,Happy,Online Video Call,Jalebi,2024
+SB-1487,Mary,Matthew,Smartphone,Kundan Rakhi,44.95,Bluetooth Speaker,Happy,Nervous,Online Video Call,Jalebi,2022
+SB-1488,Michele,William,Fitness Tracker,Silver Rakhi,28.08,Teddy Bear,Excited,Nervous,Office,Gulab Jamun,2025
+SB-1489,Elizabeth,Kevin,Headphones,Kundan Rakhi,19.87,Chocolate Hamper,Happy,Surprised,Online Video Call,Kaju Katli,2023
+SB-1490,Alicia,John,Smartphone,Zardosi Rakhi,40.39,Cash,Angry,Nervous,Online Video Call,Peda,2024
+SB-1491,Christina,Gary,Shopping Voucher,Silver Rakhi,37.95,Cash,Sentimental,Shocked,Office,Jalebi,2023
+SB-1492,Melissa,Christopher,Headphones,Silver Rakhi,59.25,Custom T-shirt,Joyful,Surprised,Cafe,Jalebi,2023
+SB-1493,Katrina,Jason,Headphones,Eco-friendly Rakhi,14.34,Sweets Box,Angry,Nervous,Cafe,Jalebi,2025
+SB-1494,Lisa,Karl,Books,Zardosi Rakhi,29.26,Chocolate Hamper,Excited,Shocked,Cafe,Rasgulla,2024
+SB-1495,Kimberly,John,Fitness Tracker,Silver Rakhi,44.02,Custom T-shirt,Sentimental,Nervous,Online Video Call,Barfi,2025
+SB-1496,Amy,Tyler,Trip to Goa,Zardosi Rakhi,59.25,Custom T-shirt,Happy,Grateful,Mall,Kaju Katli,2024
+SB-1497,Jessica,Kenneth,Makeup Kit,Lumba Rakhi,27.48,Chocolate Hamper,Sentimental,Surprised,Cafe,Peda,2023
+SB-1498,Lauren,David,Makeup Kit,Zardosi Rakhi,25.95,Sneakers,Sentimental,Shocked,Mall,Rasgulla,2024
+SB-1499,Maria,Nicholas,Makeup Kit,Cartoon Rakhi,38.06,Chocolate Hamper,Playful,Grateful,Home,Rasgulla,2022
+SB-1500,Maria,Kevin,Shopping Voucher,Zardosi Rakhi,10.43,Bluetooth Speaker,Angry,Happy,College Hostel,Ladoo,2024
+SB-1501,Jenna,Shawn,Books,Zardosi Rakhi,38.22,Cash,Excited,Happy,Home,Barfi,2023
+SB-1502,Gloria,Matthew,Books,Zardosi Rakhi,25.94,Teddy Bear,Playful,Happy,Mall,Jalebi,2025
+SB-1503,Lauren,Adam,Smartphone,Bracelet Rakhi,6.74,Chocolate Hamper,Happy,Excited,Home,Rasgulla,2022
+SB-1504,Amber,Christopher,Designer Handbag,Traditional Rakhi,33,Bluetooth Speaker,Excited,Surprised,College Hostel,Gulab Jamun,2024
+SB-1505,Cassandra,Vincent,Headphones,Lumba Rakhi,8.43,Backpack,Playful,Excited,Cafe,Ladoo,2024
+SB-1506,Tanya,Craig,Fitness Tracker,Zardosi Rakhi,21.79,Wrist Watch,Excited,Excited,Home,Kaju Katli,2023
+SB-1507,Meghan,Brett,Books,Silver Rakhi,39.09,Teddy Bear,Angry,Shocked,Mall,Ladoo,2023
+SB-1508,Tammy,Michael,Gold Ring,Silver Rakhi,54.89,Wrist Watch,Playful,Nervous,Online Video Call,Gulab Jamun,2025
+SB-1509,Maria,William,Designer Handbag,Eco-friendly Rakhi,14.3,Sweets Box,Playful,Nervous,Home,Kaju Katli,2022
+SB-1510,Amber,Steven,Gold Ring,Silver Rakhi,36.24,Teddy Bear,Joyful,Surprised,Mall,Rasgulla,2023
+SB-1511,Bonnie,Jeffrey,Shopping Voucher,Zardosi Rakhi,47.79,Gift Card,Happy,Grateful,Cafe,Peda,2023
+SB-1512,Judith,Joshua,Smartphone,Kundan Rakhi,58.28,Chocolate Hamper,Angry,Shocked,College Hostel,Barfi,2024
+SB-1513,Kimberly,David,Perfume,Cartoon Rakhi,21.84,Custom T-shirt,Joyful,Nervous,Online Video Call,Jalebi,2025
+SB-1514,Pamela,Aaron,Smartphone,Zardosi Rakhi,23.61,Cash,Angry,Nervous,College Hostel,Gulab Jamun,2022
+SB-1515,Brenda,Elijah,Books,Kundan Rakhi,6.22,Gift Card,Joyful,Happy,Online Video Call,Peda,2025
+SB-1516,Jennifer,Dennis,Makeup Kit,Bracelet Rakhi,17.49,Bluetooth Speaker,Happy,Shocked,Online Video Call,Barfi,2025
+SB-1517,Terry,Eric,Gold Ring,Silver Rakhi,58.31,Chocolate Hamper,Playful,Shocked,Mall,Kaju Katli,2023
+SB-1518,Audrey,Ryan,Shopping Voucher,Bracelet Rakhi,31.59,Wrist Watch,Happy,Surprised,Cafe,Gulab Jamun,2025
+SB-1519,Bridget,Joseph,Shopping Voucher,Eco-friendly Rakhi,41.99,Bluetooth Speaker,Joyful,Grateful,College Hostel,Peda,2024
+SB-1520,Tammy,Benjamin,Headphones,Eco-friendly Rakhi,54.67,Wrist Watch,Playful,Grateful,Cafe,Ladoo,2023
+SB-1521,Kayla,Jeremiah,Makeup Kit,Zardosi Rakhi,30.44,Custom T-shirt,Joyful,Surprised,Office,Ladoo,2022
+SB-1522,Crystal,Austin,Makeup Kit,Kundan Rakhi,44.27,Cash,Happy,Excited,Office,Peda,2025
+SB-1523,Rebecca,Matthew,Fitness Tracker,Eco-friendly Rakhi,51.63,Chocolate Hamper,Excited,Excited,Mall,Gulab Jamun,2025
+SB-1524,Jessica,Kevin,Gold Ring,Silver Rakhi,45.63,Backpack,Playful,Happy,College Hostel,Rasgulla,2024
+SB-1525,Anna,Christopher,Headphones,Silver Rakhi,24.86,Sweets Box,Joyful,Shocked,Cafe,Jalebi,2022
+SB-1526,Ebony,Gregory,Headphones,Bracelet Rakhi,37.06,Cash,Sentimental,Excited,Mall,Rasgulla,2025
+SB-1527,Sarah,Ryan,Trip to Goa,Eco-friendly Rakhi,9.66,Bluetooth Speaker,Sentimental,Nervous,Mall,Kaju Katli,2022
+SB-1528,Kari,Marcus,Fitness Tracker,Silver Rakhi,38.95,Sweets Box,Playful,Shocked,Home,Kaju Katli,2024
+SB-1529,Misty,Christopher,Gold Ring,Cartoon Rakhi,50.13,Gift Card,Sentimental,Nervous,Mall,Barfi,2023
+SB-1530,Kristin,Duane,Headphones,Silver Rakhi,36.31,Cash,Playful,Shocked,College Hostel,Gulab Jamun,2024
+SB-1531,Lauren,David,Perfume,Bracelet Rakhi,18.93,Backpack,Joyful,Surprised,Mall,Rasgulla,2025
+SB-1532,Emily,Walter,Headphones,Bracelet Rakhi,43.71,Sneakers,Sentimental,Happy,Online Video Call,Jalebi,2022
+SB-1533,Whitney,Matthew,Fitness Tracker,Cartoon Rakhi,17.52,Wrist Watch,Playful,Nervous,Mall,Jalebi,2024
+SB-1534,Laura,Kevin,Smartphone,Zardosi Rakhi,49.25,Bluetooth Speaker,Excited,Grateful,Cafe,Rasgulla,2023
+SB-1535,Elizabeth,Richard,Smartphone,Kundan Rakhi,56.66,Backpack,Excited,Shocked,Home,Ladoo,2023
+SB-1536,Kristina,Kurt,Perfume,Lumba Rakhi,39.06,Chocolate Hamper,Happy,Happy,Mall,Kaju Katli,2024
+SB-1537,Jeanne,Corey,Designer Handbag,Cartoon Rakhi,42.5,Backpack,Sentimental,Excited,Office,Gulab Jamun,2025
+SB-1538,Joanne,Christopher,Shopping Voucher,Silver Rakhi,41.82,Cash,Angry,Surprised,College Hostel,Jalebi,2025
+SB-1539,Monique,Jose,Books,Zardosi Rakhi,30.98,Chocolate Hamper,Happy,Excited,Online Video Call,Rasgulla,2022
+SB-1540,Deanna,Juan,Fitness Tracker,Lumba Rakhi,27.17,Teddy Bear,Playful,Happy,Mall,Jalebi,2024
+SB-1541,Melinda,Samuel,Makeup Kit,Cartoon Rakhi,50.39,Custom T-shirt,Angry,Happy,Mall,Kaju Katli,2024
+SB-1542,Mary,Christian,Designer Handbag,Eco-friendly Rakhi,36.37,Backpack,Sentimental,Happy,Online Video Call,Peda,2022
+SB-1543,Melissa,Jordan,Headphones,Bracelet Rakhi,21.77,Chocolate Hamper,Angry,Shocked,Mall,Kaju Katli,2022
+SB-1544,Maria,Anthony,Perfume,Kundan Rakhi,22.35,Custom T-shirt,Angry,Surprised,Online Video Call,Gulab Jamun,2024
+SB-1545,Catherine,Michael,Designer Handbag,Cartoon Rakhi,11.29,Teddy Bear,Joyful,Shocked,Cafe,Gulab Jamun,2024
+SB-1546,Katie,John,Books,Bracelet Rakhi,47.54,Sweets Box,Angry,Shocked,Home,Peda,2024
+SB-1547,Kimberly,Antonio,Headphones,Bracelet Rakhi,56.91,Sneakers,Sentimental,Happy,Online Video Call,Peda,2024
+SB-1548,Sharon,John,Books,Traditional Rakhi,23.04,Backpack,Angry,Nervous,Office,Gulab Jamun,2024
+SB-1549,Sarah,Raymond,Smartphone,Eco-friendly Rakhi,26.61,Sneakers,Angry,Happy,Online Video Call,Rasgulla,2023
+SB-1550,Ellen,David,Headphones,Kundan Rakhi,41.66,Gift Card,Angry,Grateful,Cafe,Jalebi,2025
+SB-1551,Emily,Derrick,Headphones,Lumba Rakhi,15.63,Cash,Sentimental,Surprised,Cafe,Kaju Katli,2023
+SB-1552,Kimberly,Daniel,Makeup Kit,Cartoon Rakhi,59.03,Sweets Box,Joyful,Surprised,Mall,Ladoo,2025
+SB-1553,Whitney,Bobby,Fitness Tracker,Bracelet Rakhi,6.24,Bluetooth Speaker,Excited,Nervous,Mall,Barfi,2025
+SB-1554,Kathy,Robert,Designer Handbag,Zardosi Rakhi,18.47,Wrist Watch,Happy,Grateful,Online Video Call,Ladoo,2022
+SB-1555,Donna,Jonathon,Perfume,Eco-friendly Rakhi,47.77,Gift Card,Playful,Grateful,Online Video Call,Gulab Jamun,2025
+SB-1556,Kristen,Edward,Trip to Goa,Bracelet Rakhi,10.01,Custom T-shirt,Excited,Shocked,Mall,Barfi,2025
+SB-1557,Jennifer,Eric,Smartphone,Lumba Rakhi,39.17,Teddy Bear,Happy,Shocked,Home,Barfi,2022
+SB-1558,Debbie,Robert,Trip to Goa,Silver Rakhi,19.73,Custom T-shirt,Joyful,Surprised,Mall,Jalebi,2023
+SB-1559,Mary,Zachary,Headphones,Kundan Rakhi,27.92,Bluetooth Speaker,Playful,Surprised,Online Video Call,Rasgulla,2025
+SB-1560,Sherry,Sean,Designer Handbag,Silver Rakhi,11.1,Custom T-shirt,Excited,Happy,Mall,Barfi,2023
+SB-1561,Rhonda,Jeffrey,Gold Ring,Eco-friendly Rakhi,50.91,Wrist Watch,Sentimental,Nervous,Cafe,Jalebi,2023
+SB-1562,Judy,William,Fitness Tracker,Traditional Rakhi,28.99,Cash,Happy,Happy,College Hostel,Rasgulla,2025
+SB-1563,Maria,Joseph,Designer Handbag,Lumba Rakhi,11.97,Cash,Happy,Nervous,College Hostel,Gulab Jamun,2025
+SB-1564,Heather,Joshua,Makeup Kit,Lumba Rakhi,34.26,Sweets Box,Excited,Surprised,College Hostel,Kaju Katli,2024
+SB-1565,Megan,Benjamin,Fitness Tracker,Cartoon Rakhi,41.93,Sneakers,Sentimental,Nervous,Mall,Gulab Jamun,2023
+SB-1566,Katie,Joseph,Trip to Goa,Eco-friendly Rakhi,29.65,Sneakers,Excited,Happy,Cafe,Barfi,2023
+SB-1567,Karen,Charles,Trip to Goa,Traditional Rakhi,57.95,Teddy Bear,Sentimental,Shocked,Office,Barfi,2023
+SB-1568,Erin,Dylan,Trip to Goa,Traditional Rakhi,10.93,Sneakers,Happy,Grateful,Office,Jalebi,2024
+SB-1569,Mary,Justin,Designer Handbag,Bracelet Rakhi,53.66,Custom T-shirt,Angry,Grateful,Cafe,Rasgulla,2025
+SB-1570,Martha,Nicholas,Headphones,Zardosi Rakhi,6.11,Sneakers,Excited,Grateful,Cafe,Jalebi,2022
+SB-1571,Cynthia,Johnny,Gold Ring,Silver Rakhi,58.04,Custom T-shirt,Happy,Grateful,Online Video Call,Gulab Jamun,2022
+SB-1572,Jennifer,Stephen,Designer Handbag,Zardosi Rakhi,46.62,Wrist Watch,Joyful,Shocked,Cafe,Kaju Katli,2022
+SB-1573,Nancy,Nicholas,Makeup Kit,Silver Rakhi,25.41,Sneakers,Angry,Shocked,Online Video Call,Jalebi,2025
+SB-1574,Ashley,Alan,Books,Silver Rakhi,57.41,Custom T-shirt,Happy,Excited,Online Video Call,Peda,2022
+SB-1575,Sherry,John,Trip to Goa,Bracelet Rakhi,30.12,Sneakers,Joyful,Excited,Home,Kaju Katli,2022
+SB-1576,Heather,Joshua,Designer Handbag,Traditional Rakhi,44.43,Gift Card,Angry,Surprised,Office,Barfi,2023
+SB-1577,Janet,Jeffrey,Fitness Tracker,Silver Rakhi,31.81,Bluetooth Speaker,Angry,Nervous,Mall,Ladoo,2024
+SB-1578,Deborah,Daniel,Makeup Kit,Silver Rakhi,46.46,Chocolate Hamper,Angry,Nervous,College Hostel,Gulab Jamun,2022
+SB-1579,Sydney,Peter,Smartphone,Traditional Rakhi,26.05,Gift Card,Excited,Nervous,College Hostel,Barfi,2023
+SB-1580,Heather,Jerry,Trip to Goa,Bracelet Rakhi,33.17,Bluetooth Speaker,Angry,Shocked,Office,Gulab Jamun,2024
+SB-1581,Heather,Jesus,Perfume,Lumba Rakhi,11.8,Sneakers,Joyful,Surprised,Mall,Gulab Jamun,2023
+SB-1582,Lindsay,James,Fitness Tracker,Bracelet Rakhi,29.88,Cash,Joyful,Surprised,Mall,Gulab Jamun,2025
+SB-1583,Diane,Christopher,Fitness Tracker,Bracelet Rakhi,15.15,Cash,Playful,Happy,Mall,Kaju Katli,2022
+SB-1584,Kathleen,Sean,Trip to Goa,Silver Rakhi,18.51,Wrist Watch,Playful,Happy,Mall,Peda,2024
+SB-1585,Robin,Matthew,Fitness Tracker,Zardosi Rakhi,39.03,Teddy Bear,Excited,Nervous,Mall,Barfi,2023
+SB-1586,Christina,William,Books,Eco-friendly Rakhi,57.45,Cash,Happy,Shocked,Home,Kaju Katli,2023
+SB-1587,Toni,Joseph,Trip to Goa,Silver Rakhi,52.39,Cash,Joyful,Shocked,College Hostel,Kaju Katli,2023
+SB-1588,Megan,Jay,Books,Kundan Rakhi,13.93,Teddy Bear,Happy,Nervous,College Hostel,Rasgulla,2023
+SB-1589,Danielle,Michael,Shopping Voucher,Silver Rakhi,8.81,Bluetooth Speaker,Playful,Happy,Home,Kaju Katli,2024
+SB-1590,Pamela,Andrew,Smartphone,Cartoon Rakhi,32.75,Teddy Bear,Excited,Shocked,Home,Kaju Katli,2025
+SB-1591,Gabrielle,Kyle,Trip to Goa,Zardosi Rakhi,21.09,Backpack,Joyful,Nervous,College Hostel,Ladoo,2022
+SB-1592,Paula,Fernando,Headphones,Bracelet Rakhi,27.18,Wrist Watch,Sentimental,Surprised,College Hostel,Rasgulla,2022
+SB-1593,Gina,Jason,Books,Lumba Rakhi,8.98,Chocolate Hamper,Joyful,Nervous,Online Video Call,Kaju Katli,2022
+SB-1594,Margaret,Calvin,Books,Zardosi Rakhi,7.52,Teddy Bear,Excited,Happy,Cafe,Barfi,2024
+SB-1595,Amanda,Patrick,Designer Handbag,Zardosi Rakhi,8.57,Cash,Sentimental,Excited,Home,Gulab Jamun,2024
+SB-1596,Shannon,Nicholas,Gold Ring,Lumba Rakhi,37.76,Custom T-shirt,Playful,Surprised,Office,Barfi,2022
+SB-1597,Allison,Robert,Perfume,Zardosi Rakhi,54.63,Teddy Bear,Angry,Grateful,Online Video Call,Peda,2022
+SB-1598,Megan,Daniel,Fitness Tracker,Bracelet Rakhi,40.89,Gift Card,Angry,Shocked,Home,Kaju Katli,2024
+SB-1599,Christine,Garrett,Perfume,Zardosi Rakhi,49.49,Gift Card,Playful,Nervous,Online Video Call,Barfi,2023
+SB-1600,Sarah,Jose,Perfume,Kundan Rakhi,39.11,Wrist Watch,Angry,Shocked,Office,Rasgulla,2023
+SB-1601,Mary,Anthony,Shopping Voucher,Kundan Rakhi,40.64,Chocolate Hamper,Happy,Nervous,College Hostel,Rasgulla,2025
+SB-1602,Stephanie,Paul,Gold Ring,Eco-friendly Rakhi,10.81,Wrist Watch,Excited,Excited,Home,Barfi,2023
+SB-1603,Julie,Samuel,Makeup Kit,Silver Rakhi,56.55,Wrist Watch,Playful,Happy,Online Video Call,Gulab Jamun,2024
+SB-1604,Dawn,Nathaniel,Smartphone,Traditional Rakhi,10.62,Sweets Box,Sentimental,Grateful,Home,Gulab Jamun,2022
+SB-1605,Elizabeth,Kevin,Fitness Tracker,Cartoon Rakhi,11.53,Wrist Watch,Joyful,Nervous,Cafe,Kaju Katli,2024
+SB-1606,Tina,John,Smartphone,Lumba Rakhi,57.93,Chocolate Hamper,Angry,Surprised,Cafe,Barfi,2024
+SB-1607,Stephanie,Andres,Books,Zardosi Rakhi,32.11,Cash,Joyful,Surprised,College Hostel,Ladoo,2024
+SB-1608,Jane,Matthew,Headphones,Cartoon Rakhi,43.05,Backpack,Angry,Grateful,Cafe,Rasgulla,2025
+SB-1609,Rachel,Reginald,Fitness Tracker,Zardosi Rakhi,52.98,Wrist Watch,Excited,Surprised,Cafe,Barfi,2022
+SB-1610,Elizabeth,Michael,Trip to Goa,Kundan Rakhi,35.03,Backpack,Angry,Nervous,Cafe,Kaju Katli,2022
+SB-1611,Kristen,James,Designer Handbag,Traditional Rakhi,10.82,Wrist Watch,Playful,Grateful,Mall,Jalebi,2025
+SB-1612,Emily,James,Makeup Kit,Kundan Rakhi,20.41,Cash,Excited,Happy,Cafe,Jalebi,2025
+SB-1613,Christina,William,Makeup Kit,Zardosi Rakhi,57.08,Sweets Box,Joyful,Surprised,Office,Kaju Katli,2023
+SB-1614,Wendy,Kenneth,Perfume,Bracelet Rakhi,44.64,Gift Card,Happy,Shocked,Online Video Call,Gulab Jamun,2024
+SB-1615,Dawn,James,Makeup Kit,Cartoon Rakhi,10.9,Wrist Watch,Playful,Excited,Mall,Barfi,2022
+SB-1616,Barbara,Gregory,Books,Eco-friendly Rakhi,18.84,Sweets Box,Playful,Excited,Online Video Call,Kaju Katli,2023
+SB-1617,Jennifer,James,Headphones,Lumba Rakhi,7.32,Gift Card,Angry,Grateful,Cafe,Gulab Jamun,2024
+SB-1618,Annette,Travis,Fitness Tracker,Silver Rakhi,46.99,Gift Card,Happy,Surprised,College Hostel,Rasgulla,2022
+SB-1619,Megan,Joseph,Smartphone,Kundan Rakhi,32.86,Wrist Watch,Excited,Grateful,Office,Barfi,2023
+SB-1620,Olivia,Mark,Shopping Voucher,Silver Rakhi,19.34,Teddy Bear,Happy,Grateful,Office,Gulab Jamun,2024
+SB-1621,Andrea,Nicholas,Trip to Goa,Traditional Rakhi,6.79,Wrist Watch,Excited,Happy,Home,Jalebi,2022
+SB-1622,Ruth,Keith,Shopping Voucher,Traditional Rakhi,27.24,Cash,Sentimental,Nervous,College Hostel,Peda,2024
+SB-1623,Mary,Maurice,Designer Handbag,Traditional Rakhi,36.5,Sweets Box,Happy,Happy,Home,Peda,2022
+SB-1624,Taylor,John,Books,Kundan Rakhi,40.99,Sneakers,Happy,Nervous,Cafe,Peda,2022
+SB-1625,Crystal,John,Fitness Tracker,Traditional Rakhi,24.98,Chocolate Hamper,Joyful,Happy,Office,Barfi,2023
+SB-1626,Tanya,Colton,Smartphone,Bracelet Rakhi,52.58,Sneakers,Joyful,Shocked,Online Video Call,Rasgulla,2024
+SB-1627,Judy,Christopher,Headphones,Kundan Rakhi,43.03,Cash,Happy,Nervous,Office,Rasgulla,2023
+SB-1628,Zoe,Christopher,Trip to Goa,Lumba Rakhi,55.16,Wrist Watch,Playful,Grateful,Mall,Rasgulla,2022
+SB-1629,Brenda,Ryan,Makeup Kit,Zardosi Rakhi,29.07,Wrist Watch,Angry,Grateful,Mall,Jalebi,2022
+SB-1630,Gina,Joseph,Smartphone,Traditional Rakhi,13.79,Chocolate Hamper,Happy,Nervous,College Hostel,Ladoo,2024
+SB-1631,Patricia,Lonnie,Perfume,Eco-friendly Rakhi,53.29,Wrist Watch,Happy,Excited,Mall,Peda,2024
+SB-1632,Amanda,Todd,Designer Handbag,Traditional Rakhi,45.28,Gift Card,Angry,Excited,Cafe,Gulab Jamun,2025
+SB-1633,Dana,Charles,Trip to Goa,Lumba Rakhi,35.32,Cash,Sentimental,Grateful,Cafe,Kaju Katli,2024
+SB-1634,Marie,David,Gold Ring,Kundan Rakhi,54.5,Custom T-shirt,Excited,Nervous,Home,Barfi,2022
+SB-1635,Toni,Brian,Headphones,Lumba Rakhi,36.62,Backpack,Joyful,Surprised,Online Video Call,Kaju Katli,2023
+SB-1636,Melissa,Jeffery,Makeup Kit,Cartoon Rakhi,47.41,Backpack,Playful,Happy,Office,Jalebi,2023
+SB-1637,Katherine,David,Books,Lumba Rakhi,24.14,Cash,Joyful,Nervous,Online Video Call,Jalebi,2025
+SB-1638,Molly,Tom,Perfume,Eco-friendly Rakhi,11.17,Backpack,Excited,Surprised,Online Video Call,Jalebi,2024
+SB-1639,Amy,Stanley,Books,Traditional Rakhi,15.29,Teddy Bear,Sentimental,Happy,Cafe,Kaju Katli,2024
+SB-1640,Marissa,David,Fitness Tracker,Silver Rakhi,9.76,Chocolate Hamper,Sentimental,Nervous,Mall,Rasgulla,2024
+SB-1641,Leslie,Christian,Makeup Kit,Zardosi Rakhi,28.19,Bluetooth Speaker,Playful,Happy,Mall,Ladoo,2022
+SB-1642,Jody,William,Headphones,Bracelet Rakhi,49.25,Cash,Excited,Shocked,Office,Peda,2025
+SB-1643,Kristin,James,Fitness Tracker,Cartoon Rakhi,56.66,Gift Card,Excited,Shocked,Online Video Call,Ladoo,2023
+SB-1644,Samantha,Gregory,Designer Handbag,Bracelet Rakhi,24.52,Sweets Box,Playful,Shocked,Online Video Call,Ladoo,2024
+SB-1645,Christy,Michael,Designer Handbag,Silver Rakhi,31.01,Bluetooth Speaker,Joyful,Grateful,College Hostel,Jalebi,2022
+SB-1646,Marissa,Trevor,Shopping Voucher,Kundan Rakhi,24.41,Sweets Box,Playful,Excited,Office,Kaju Katli,2025
+SB-1647,Angela,Brandon,Trip to Goa,Cartoon Rakhi,37.81,Wrist Watch,Playful,Grateful,Home,Peda,2024
+SB-1648,Megan,Timothy,Shopping Voucher,Kundan Rakhi,58.5,Chocolate Hamper,Joyful,Excited,College Hostel,Barfi,2024
+SB-1649,Michelle,Ross,Headphones,Zardosi Rakhi,39.27,Chocolate Hamper,Sentimental,Grateful,College Hostel,Gulab Jamun,2024
+SB-1650,Robin,Peter,Designer Handbag,Cartoon Rakhi,5.52,Gift Card,Playful,Shocked,Cafe,Jalebi,2025
+SB-1651,Sarah,Patrick,Makeup Kit,Lumba Rakhi,30.48,Chocolate Hamper,Joyful,Surprised,Mall,Gulab Jamun,2022
+SB-1652,Susan,Kevin,Shopping Voucher,Lumba Rakhi,34.6,Teddy Bear,Excited,Happy,College Hostel,Rasgulla,2023
+SB-1653,Rhonda,Jimmy,Fitness Tracker,Silver Rakhi,37.62,Wrist Watch,Happy,Surprised,Home,Ladoo,2022
+SB-1654,Carol,Mitchell,Headphones,Eco-friendly Rakhi,13.36,Chocolate Hamper,Excited,Happy,Home,Barfi,2025
+SB-1655,Sarah,Scott,Smartphone,Zardosi Rakhi,41.42,Backpack,Playful,Nervous,Cafe,Peda,2025
+SB-1656,Melissa,Daniel,Makeup Kit,Traditional Rakhi,51.36,Custom T-shirt,Joyful,Shocked,Cafe,Jalebi,2024
+SB-1657,Denise,Jeremy,Trip to Goa,Bracelet Rakhi,6.94,Wrist Watch,Joyful,Nervous,Office,Kaju Katli,2022
+SB-1658,Kelsey,Allen,Shopping Voucher,Traditional Rakhi,7.11,Bluetooth Speaker,Excited,Nervous,Mall,Ladoo,2022
+SB-1659,Sandra,Richard,Shopping Voucher,Kundan Rakhi,13.44,Cash,Joyful,Shocked,Cafe,Peda,2023
+SB-1660,Julie,Kirk,Gold Ring,Bracelet Rakhi,20.35,Chocolate Hamper,Excited,Shocked,Mall,Rasgulla,2022
+SB-1661,Stephanie,Steven,Shopping Voucher,Zardosi Rakhi,39.21,Gift Card,Playful,Surprised,Office,Rasgulla,2023
+SB-1662,Jennifer,Robert,Makeup Kit,Zardosi Rakhi,14.76,Backpack,Angry,Nervous,Cafe,Peda,2024
+SB-1663,Lori,Daniel,Smartphone,Eco-friendly Rakhi,39.18,Backpack,Joyful,Nervous,Online Video Call,Kaju Katli,2024
+SB-1664,Melissa,Jacob,Gold Ring,Traditional Rakhi,40.52,Sweets Box,Angry,Surprised,College Hostel,Ladoo,2023
+SB-1665,Jade,Joe,Designer Handbag,Silver Rakhi,23.41,Gift Card,Excited,Shocked,Online Video Call,Peda,2022
+SB-1666,Rachel,Tommy,Designer Handbag,Bracelet Rakhi,40.1,Cash,Excited,Surprised,Office,Ladoo,2022
+SB-1667,Crystal,Adam,Designer Handbag,Eco-friendly Rakhi,52.47,Cash,Playful,Shocked,College Hostel,Kaju Katli,2023
+SB-1668,Cathy,Derrick,Designer Handbag,Zardosi Rakhi,23.34,Bluetooth Speaker,Playful,Excited,Cafe,Gulab Jamun,2024
+SB-1669,Amy,Darren,Books,Zardosi Rakhi,33.74,Sweets Box,Excited,Nervous,Online Video Call,Gulab Jamun,2022
+SB-1670,Victoria,Christopher,Shopping Voucher,Zardosi Rakhi,17.37,Chocolate Hamper,Joyful,Grateful,College Hostel,Peda,2025
+SB-1671,Heidi,Mark,Gold Ring,Eco-friendly Rakhi,53,Cash,Sentimental,Surprised,College Hostel,Kaju Katli,2022
+SB-1672,Rachel,Richard,Headphones,Lumba Rakhi,50.32,Teddy Bear,Joyful,Grateful,Home,Peda,2025
+SB-1673,Christine,Joshua,Books,Kundan Rakhi,54.55,Sweets Box,Playful,Shocked,Home,Kaju Katli,2023
+SB-1674,Barbara,Philip,Makeup Kit,Lumba Rakhi,11.94,Bluetooth Speaker,Joyful,Grateful,Cafe,Jalebi,2022
+SB-1675,Robin,Jimmy,Smartphone,Lumba Rakhi,50.53,Gift Card,Joyful,Happy,Home,Gulab Jamun,2022
+SB-1676,Jennifer,Timothy,Headphones,Silver Rakhi,17.41,Backpack,Angry,Nervous,College Hostel,Kaju Katli,2022
+SB-1677,Teresa,David,Shopping Voucher,Eco-friendly Rakhi,54.86,Custom T-shirt,Sentimental,Nervous,Online Video Call,Kaju Katli,2022
+SB-1678,Dawn,Dean,Shopping Voucher,Zardosi Rakhi,45.34,Sweets Box,Angry,Happy,Home,Rasgulla,2023
+SB-1679,Paula,Joseph,Books,Eco-friendly Rakhi,38.97,Backpack,Happy,Excited,College Hostel,Kaju Katli,2024
+SB-1680,Laura,Chad,Books,Silver Rakhi,34.44,Chocolate Hamper,Sentimental,Happy,Mall,Gulab Jamun,2024
+SB-1681,Emma,Joshua,Designer Handbag,Silver Rakhi,51.89,Custom T-shirt,Excited,Happy,College Hostel,Jalebi,2022
+SB-1682,Lisa,Christopher,Shopping Voucher,Bracelet Rakhi,8.3,Sneakers,Angry,Happy,Online Video Call,Rasgulla,2025
+SB-1683,Megan,Frederick,Books,Eco-friendly Rakhi,36.67,Teddy Bear,Excited,Shocked,Office,Jalebi,2025
+SB-1684,Tiffany,Craig,Books,Kundan Rakhi,25.4,Cash,Excited,Surprised,Mall,Ladoo,2025
+SB-1685,Emily,Brian,Gold Ring,Lumba Rakhi,23.79,Cash,Sentimental,Nervous,Mall,Barfi,2024
+SB-1686,Courtney,William,Smartphone,Traditional Rakhi,26.77,Backpack,Happy,Shocked,Mall,Rasgulla,2022
+SB-1687,Michelle,Thomas,Shopping Voucher,Kundan Rakhi,37.91,Teddy Bear,Joyful,Surprised,Office,Peda,2023
+SB-1688,Jane,Bernard,Perfume,Traditional Rakhi,18.16,Wrist Watch,Excited,Happy,Home,Peda,2022
+SB-1689,Tiffany,John,Makeup Kit,Traditional Rakhi,36.79,Chocolate Hamper,Sentimental,Excited,Mall,Peda,2023
+SB-1690,April,Raymond,Designer Handbag,Kundan Rakhi,39.52,Sweets Box,Excited,Nervous,College Hostel,Barfi,2023
+SB-1691,Tammy,Daniel,Perfume,Kundan Rakhi,33.02,Backpack,Excited,Shocked,Cafe,Rasgulla,2023
+SB-1692,Melissa,Scott,Smartphone,Silver Rakhi,26.19,Chocolate Hamper,Joyful,Nervous,Home,Jalebi,2024
+SB-1693,Rachel,Terry,Perfume,Silver Rakhi,49.94,Chocolate Hamper,Playful,Nervous,College Hostel,Gulab Jamun,2022
+SB-1694,Lisa,Jeremy,Trip to Goa,Zardosi Rakhi,48.14,Sneakers,Joyful,Surprised,Office,Rasgulla,2023
+SB-1695,Michelle,Michael,Books,Eco-friendly Rakhi,37.37,Backpack,Happy,Happy,Home,Rasgulla,2023
+SB-1696,Linda,Stephen,Shopping Voucher,Silver Rakhi,28.35,Bluetooth Speaker,Angry,Surprised,Cafe,Gulab Jamun,2024
+SB-1697,Amanda,David,Perfume,Silver Rakhi,23.22,Custom T-shirt,Angry,Happy,Cafe,Kaju Katli,2024
+SB-1698,Sarah,Jay,Shopping Voucher,Kundan Rakhi,6.86,Teddy Bear,Joyful,Excited,Cafe,Barfi,2025
+SB-1699,Lynn,Sean,Smartphone,Lumba Rakhi,46.39,Custom T-shirt,Angry,Excited,Home,Gulab Jamun,2023
+SB-1700,Diane,Christopher,Headphones,Eco-friendly Rakhi,40.11,Chocolate Hamper,Sentimental,Grateful,Office,Ladoo,2022
+SB-1701,Mary,Corey,Smartphone,Eco-friendly Rakhi,42.54,Wrist Watch,Excited,Grateful,Online Video Call,Jalebi,2023
+SB-1702,Cynthia,Timothy,Designer Handbag,Lumba Rakhi,29.68,Gift Card,Playful,Shocked,College Hostel,Peda,2025
+SB-1703,Tanya,Andrew,Gold Ring,Zardosi Rakhi,39.02,Sneakers,Happy,Surprised,Online Video Call,Ladoo,2023
+SB-1704,Tara,Michael,Books,Lumba Rakhi,34.08,Teddy Bear,Playful,Grateful,Office,Kaju Katli,2025
+SB-1705,Rebecca,Nicholas,Fitness Tracker,Silver Rakhi,25.75,Teddy Bear,Angry,Happy,Cafe,Ladoo,2022
+SB-1706,Angela,Kyle,Perfume,Eco-friendly Rakhi,10.2,Bluetooth Speaker,Excited,Grateful,Online Video Call,Jalebi,2023
+SB-1707,Michelle,Brian,Makeup Kit,Eco-friendly Rakhi,49.88,Backpack,Happy,Excited,Cafe,Jalebi,2023
+SB-1708,Courtney,Vincent,Trip to Goa,Kundan Rakhi,19.42,Backpack,Angry,Happy,College Hostel,Ladoo,2024
+SB-1709,Rachel,James,Headphones,Zardosi Rakhi,50.37,Custom T-shirt,Playful,Grateful,Online Video Call,Ladoo,2023
+SB-1710,Madison,Michael,Smartphone,Kundan Rakhi,37.72,Backpack,Playful,Nervous,Online Video Call,Kaju Katli,2023
+SB-1711,Patricia,Cameron,Makeup Kit,Traditional Rakhi,33.2,Wrist Watch,Happy,Surprised,Mall,Ladoo,2022
+SB-1712,Deanna,Roy,Smartphone,Kundan Rakhi,8.11,Sweets Box,Happy,Surprised,Office,Gulab Jamun,2025
+SB-1713,Samantha,Mitchell,Shopping Voucher,Cartoon Rakhi,54.22,Wrist Watch,Angry,Grateful,College Hostel,Rasgulla,2023
+SB-1714,Vanessa,Andrew,Fitness Tracker,Eco-friendly Rakhi,10.18,Gift Card,Sentimental,Grateful,Cafe,Barfi,2024
+SB-1715,Linda,Shaun,Designer Handbag,Zardosi Rakhi,21.03,Sneakers,Joyful,Shocked,Mall,Jalebi,2023
+SB-1716,Brandy,Alexander,Shopping Voucher,Zardosi Rakhi,57.46,Custom T-shirt,Excited,Shocked,Home,Gulab Jamun,2023
+SB-1717,Ann,Zachary,Gold Ring,Traditional Rakhi,55,Sneakers,Happy,Shocked,College Hostel,Jalebi,2025
+SB-1718,Ashley,Ross,Perfume,Cartoon Rakhi,34.26,Backpack,Excited,Shocked,Mall,Peda,2024
+SB-1719,Evelyn,Keith,Headphones,Eco-friendly Rakhi,21.9,Gift Card,Sentimental,Nervous,Mall,Jalebi,2025
+SB-1720,Haley,Jeffrey,Makeup Kit,Cartoon Rakhi,21,Sneakers,Joyful,Surprised,Office,Kaju Katli,2023
+SB-1721,Sydney,Vincent,Headphones,Kundan Rakhi,49.66,Backpack,Happy,Surprised,College Hostel,Peda,2024
+SB-1722,Pamela,Samuel,Gold Ring,Traditional Rakhi,21.98,Gift Card,Angry,Grateful,Office,Gulab Jamun,2023
+SB-1723,Sharon,Leonard,Shopping Voucher,Kundan Rakhi,15.2,Bluetooth Speaker,Playful,Grateful,Cafe,Jalebi,2024
+SB-1724,Lisa,Thomas,Fitness Tracker,Traditional Rakhi,19.47,Bluetooth Speaker,Playful,Happy,Home,Rasgulla,2024
+SB-1725,Laura,Paul,Trip to Goa,Bracelet Rakhi,49.3,Wrist Watch,Excited,Happy,Office,Kaju Katli,2024
+SB-1726,Kimberly,Theodore,Fitness Tracker,Silver Rakhi,8.61,Bluetooth Speaker,Sentimental,Nervous,College Hostel,Kaju Katli,2022
+SB-1727,Daisy,Patrick,Designer Handbag,Eco-friendly Rakhi,47.16,Sneakers,Angry,Surprised,Mall,Barfi,2023
+SB-1728,Michelle,Patrick,Fitness Tracker,Zardosi Rakhi,49.76,Wrist Watch,Playful,Shocked,Cafe,Jalebi,2023
+SB-1729,Brooke,Jeffrey,Fitness Tracker,Zardosi Rakhi,49.82,Sweets Box,Angry,Nervous,Home,Ladoo,2022
+SB-1730,Danielle,James,Headphones,Eco-friendly Rakhi,7.71,Sweets Box,Excited,Excited,Cafe,Ladoo,2025
+SB-1731,Katelyn,Troy,Smartphone,Traditional Rakhi,20.07,Wrist Watch,Sentimental,Happy,Home,Barfi,2025
+SB-1732,Christine,Darrell,Trip to Goa,Traditional Rakhi,7.5,Wrist Watch,Happy,Surprised,Cafe,Barfi,2023
+SB-1733,Angela,Jordan,Headphones,Kundan Rakhi,48.06,Backpack,Joyful,Happy,Mall,Jalebi,2022
+SB-1734,Meghan,David,Fitness Tracker,Kundan Rakhi,11.64,Sweets Box,Playful,Surprised,Mall,Barfi,2022
+SB-1735,Karen,Douglas,Trip to Goa,Eco-friendly Rakhi,36.96,Teddy Bear,Playful,Happy,Office,Barfi,2024
+SB-1736,Misty,James,Books,Zardosi Rakhi,50.87,Teddy Bear,Playful,Surprised,Home,Peda,2022
+SB-1737,Carol,Aaron,Fitness Tracker,Eco-friendly Rakhi,22.74,Wrist Watch,Excited,Excited,Home,Barfi,2025
+SB-1738,Janet,Brian,Trip to Goa,Kundan Rakhi,33.45,Custom T-shirt,Sentimental,Shocked,Office,Rasgulla,2023
+SB-1739,Sharon,Michael,Perfume,Kundan Rakhi,55.25,Custom T-shirt,Angry,Happy,Mall,Rasgulla,2025
+SB-1740,Cindy,Michael,Shopping Voucher,Traditional Rakhi,21.35,Sneakers,Playful,Happy,Office,Gulab Jamun,2023
+SB-1741,Norma,Lawrence,Smartphone,Bracelet Rakhi,46.83,Custom T-shirt,Joyful,Excited,Online Video Call,Rasgulla,2024
+SB-1742,Melissa,Christopher,Makeup Kit,Zardosi Rakhi,14.92,Gift Card,Joyful,Excited,Online Video Call,Kaju Katli,2024
+SB-1743,Pamela,John,Smartphone,Zardosi Rakhi,58.89,Backpack,Excited,Happy,College Hostel,Jalebi,2023
+SB-1744,Leah,Jacob,Makeup Kit,Kundan Rakhi,54.49,Cash,Joyful,Nervous,College Hostel,Barfi,2025
+SB-1745,Kelly,Scott,Smartphone,Eco-friendly Rakhi,27.95,Bluetooth Speaker,Playful,Shocked,Home,Ladoo,2023
+SB-1746,Jennifer,Daniel,Trip to Goa,Bracelet Rakhi,39.39,Sneakers,Joyful,Excited,Home,Kaju Katli,2024
+SB-1747,Deborah,Colin,Gold Ring,Bracelet Rakhi,15.79,Wrist Watch,Happy,Nervous,Online Video Call,Jalebi,2022
+SB-1748,Melissa,Kerry,Trip to Goa,Traditional Rakhi,39.31,Wrist Watch,Playful,Happy,Home,Peda,2022
+SB-1749,Rebecca,Allen,Headphones,Zardosi Rakhi,25.02,Wrist Watch,Sentimental,Nervous,Office,Peda,2022
+SB-1750,Lisa,Seth,Makeup Kit,Eco-friendly Rakhi,7.93,Sweets Box,Playful,Excited,Cafe,Jalebi,2024
+SB-1751,Nicole,David,Fitness Tracker,Cartoon Rakhi,15.77,Gift Card,Playful,Happy,College Hostel,Barfi,2023
+SB-1752,Megan,William,Designer Handbag,Silver Rakhi,21.87,Cash,Joyful,Nervous,Cafe,Barfi,2025
+SB-1753,Katie,John,Smartphone,Silver Rakhi,28.04,Chocolate Hamper,Joyful,Excited,Office,Ladoo,2024
+SB-1754,Megan,Wesley,Fitness Tracker,Traditional Rakhi,58.44,Teddy Bear,Joyful,Happy,Home,Gulab Jamun,2024
+SB-1755,Kim,Derek,Smartphone,Zardosi Rakhi,30.68,Chocolate Hamper,Joyful,Nervous,Mall,Peda,2023
+SB-1756,Katelyn,Richard,Perfume,Kundan Rakhi,7.83,Wrist Watch,Excited,Happy,Office,Peda,2025
+SB-1757,Kelly,Joshua,Shopping Voucher,Bracelet Rakhi,14.62,Gift Card,Angry,Grateful,Office,Peda,2022
+SB-1758,Mary,Marc,Designer Handbag,Kundan Rakhi,31.15,Cash,Sentimental,Shocked,College Hostel,Kaju Katli,2025
+SB-1759,Kathy,Kyle,Shopping Voucher,Zardosi Rakhi,36.5,Gift Card,Angry,Shocked,Mall,Ladoo,2024
+SB-1760,Amber,Matthew,Perfume,Silver Rakhi,9.12,Cash,Sentimental,Shocked,Cafe,Ladoo,2025
+SB-1761,Patricia,Robert,Headphones,Lumba Rakhi,5.45,Backpack,Sentimental,Surprised,Cafe,Kaju Katli,2023
+SB-1762,Lindsay,Daniel,Headphones,Traditional Rakhi,47.89,Bluetooth Speaker,Angry,Excited,Mall,Ladoo,2024
+SB-1763,Wendy,Taylor,Shopping Voucher,Eco-friendly Rakhi,27.47,Cash,Playful,Shocked,College Hostel,Rasgulla,2024
+SB-1764,Elizabeth,Gary,Headphones,Zardosi Rakhi,7.53,Gift Card,Happy,Happy,Home,Rasgulla,2025
+SB-1765,Annette,Mark,Designer Handbag,Eco-friendly Rakhi,44.97,Backpack,Angry,Nervous,Mall,Kaju Katli,2023
+SB-1766,Courtney,Michael,Makeup Kit,Traditional Rakhi,18.23,Sweets Box,Sentimental,Excited,Home,Ladoo,2023
+SB-1767,Sarah,David,Fitness Tracker,Zardosi Rakhi,59.36,Chocolate Hamper,Excited,Nervous,Cafe,Rasgulla,2024
+SB-1768,Amy,William,Shopping Voucher,Silver Rakhi,21.12,Sneakers,Sentimental,Shocked,College Hostel,Peda,2024
+SB-1769,Taylor,Robert,Shopping Voucher,Silver Rakhi,32,Bluetooth Speaker,Angry,Nervous,Mall,Barfi,2024
+SB-1770,Monica,Darren,Makeup Kit,Traditional Rakhi,20.63,Sneakers,Playful,Shocked,Mall,Ladoo,2022
+SB-1771,Karen,Barry,Fitness Tracker,Bracelet Rakhi,35.24,Custom T-shirt,Happy,Shocked,Online Video Call,Ladoo,2024
+SB-1772,Andrea,Kevin,Fitness Tracker,Zardosi Rakhi,50.72,Backpack,Angry,Shocked,Cafe,Rasgulla,2025
+SB-1773,Cristina,Jon,Gold Ring,Kundan Rakhi,13.05,Backpack,Angry,Excited,Home,Barfi,2025
+SB-1774,Cindy,William,Designer Handbag,Kundan Rakhi,42.76,Wrist Watch,Joyful,Nervous,Online Video Call,Peda,2023
+SB-1775,Courtney,Theodore,Fitness Tracker,Lumba Rakhi,53.12,Backpack,Happy,Excited,Mall,Ladoo,2023
+SB-1776,Madison,Gregory,Smartphone,Cartoon Rakhi,17.78,Bluetooth Speaker,Happy,Shocked,Cafe,Ladoo,2023
+SB-1777,Elizabeth,Thomas,Gold Ring,Silver Rakhi,57.57,Custom T-shirt,Playful,Surprised,Office,Peda,2023
+SB-1778,Dawn,Brian,Designer Handbag,Bracelet Rakhi,10.49,Cash,Joyful,Surprised,Mall,Jalebi,2024
+SB-1779,Patricia,Walter,Fitness Tracker,Kundan Rakhi,51.01,Gift Card,Playful,Grateful,Cafe,Rasgulla,2025
+SB-1780,Jessica,Jerry,Gold Ring,Cartoon Rakhi,7.72,Chocolate Hamper,Happy,Nervous,Cafe,Kaju Katli,2025
+SB-1781,Emily,Don,Perfume,Zardosi Rakhi,41.92,Gift Card,Excited,Surprised,Office,Barfi,2022
+SB-1782,Diane,Richard,Trip to Goa,Bracelet Rakhi,29.55,Cash,Excited,Surprised,College Hostel,Peda,2024
+SB-1783,Becky,Daniel,Perfume,Lumba Rakhi,5.32,Chocolate Hamper,Joyful,Nervous,Home,Gulab Jamun,2022
+SB-1784,Robin,Larry,Gold Ring,Lumba Rakhi,18.1,Cash,Angry,Nervous,Office,Barfi,2024
+SB-1785,Jamie,William,Trip to Goa,Zardosi Rakhi,54.88,Chocolate Hamper,Excited,Grateful,Office,Peda,2024
+SB-1786,Jessica,William,Gold Ring,Bracelet Rakhi,38.82,Backpack,Happy,Nervous,Office,Barfi,2023
+SB-1787,Heather,Joshua,Headphones,Cartoon Rakhi,23.94,Bluetooth Speaker,Angry,Excited,Home,Jalebi,2025
+SB-1788,Tonya,Fred,Shopping Voucher,Kundan Rakhi,49.07,Gift Card,Playful,Nervous,Online Video Call,Barfi,2023
+SB-1789,Eileen,Allen,Books,Eco-friendly Rakhi,23.08,Cash,Happy,Excited,Cafe,Kaju Katli,2025
+SB-1790,Kelly,Cristian,Makeup Kit,Silver Rakhi,40.01,Cash,Angry,Excited,College Hostel,Gulab Jamun,2024
+SB-1791,Morgan,Juan,Gold Ring,Kundan Rakhi,42.73,Sneakers,Joyful,Happy,Online Video Call,Peda,2022
+SB-1792,Kara,Andrew,Smartphone,Bracelet Rakhi,58.63,Wrist Watch,Sentimental,Shocked,Online Video Call,Ladoo,2022
+SB-1793,Pamela,Jose,Books,Bracelet Rakhi,9.22,Custom T-shirt,Playful,Happy,Home,Kaju Katli,2022
+SB-1794,Rachel,John,Makeup Kit,Silver Rakhi,54.38,Chocolate Hamper,Happy,Excited,Office,Ladoo,2022
+SB-1795,Jessica,Christopher,Trip to Goa,Traditional Rakhi,59.12,Backpack,Excited,Surprised,College Hostel,Gulab Jamun,2025
+SB-1796,Kathy,Dustin,Trip to Goa,Traditional Rakhi,50.26,Gift Card,Playful,Shocked,Home,Barfi,2025
+SB-1797,Kathy,Benjamin,Gold Ring,Eco-friendly Rakhi,43.67,Sneakers,Playful,Nervous,Home,Ladoo,2024
+SB-1798,Erika,Derek,Trip to Goa,Cartoon Rakhi,31.09,Sweets Box,Excited,Happy,Office,Peda,2022
+SB-1799,Dana,Michael,Gold Ring,Bracelet Rakhi,18.03,Sneakers,Happy,Grateful,College Hostel,Rasgulla,2024
+SB-1800,Angela,Jason,Makeup Kit,Eco-friendly Rakhi,28.08,Wrist Watch,Playful,Nervous,Mall,Jalebi,2022
+SB-1801,Crystal,Alexander,Headphones,Kundan Rakhi,37.72,Chocolate Hamper,Happy,Grateful,Home,Barfi,2024
+SB-1802,Kelsey,Jeffrey,Shopping Voucher,Silver Rakhi,30.83,Gift Card,Happy,Happy,Home,Rasgulla,2025
+SB-1803,Sarah,Timothy,Makeup Kit,Traditional Rakhi,17.45,Custom T-shirt,Playful,Excited,Online Video Call,Gulab Jamun,2025
+SB-1804,Wanda,Andrew,Perfume,Lumba Rakhi,34.19,Sweets Box,Joyful,Excited,College Hostel,Jalebi,2023
+SB-1805,Michele,Gary,Makeup Kit,Kundan Rakhi,36.03,Chocolate Hamper,Sentimental,Nervous,Online Video Call,Peda,2022
+SB-1806,Jessica,Darren,Designer Handbag,Silver Rakhi,34.23,Backpack,Sentimental,Grateful,Cafe,Jalebi,2022
+SB-1807,Julie,Christopher,Trip to Goa,Bracelet Rakhi,26.09,Sneakers,Excited,Nervous,College Hostel,Rasgulla,2024
+SB-1808,Natalie,Edward,Perfume,Zardosi Rakhi,10.03,Teddy Bear,Angry,Nervous,Office,Rasgulla,2025
+SB-1809,Amy,Johnny,Smartphone,Bracelet Rakhi,48.19,Sweets Box,Happy,Shocked,Online Video Call,Jalebi,2025
+SB-1810,Lynn,Robert,Fitness Tracker,Silver Rakhi,32.97,Gift Card,Happy,Shocked,Office,Rasgulla,2025
+SB-1811,Jessica,William,Perfume,Eco-friendly Rakhi,52.34,Gift Card,Angry,Excited,College Hostel,Barfi,2024
+SB-1812,Theresa,Alexander,Trip to Goa,Cartoon Rakhi,50.81,Sneakers,Happy,Grateful,Mall,Barfi,2023
+SB-1813,Stacey,Larry,Gold Ring,Silver Rakhi,31.18,Chocolate Hamper,Sentimental,Excited,College Hostel,Kaju Katli,2025
+SB-1814,Rebecca,Justin,Makeup Kit,Zardosi Rakhi,33.39,Teddy Bear,Angry,Shocked,Online Video Call,Barfi,2024
+SB-1815,Kimberly,Joshua,Smartphone,Bracelet Rakhi,29.27,Teddy Bear,Angry,Grateful,College Hostel,Rasgulla,2025
+SB-1816,Patricia,John,Headphones,Bracelet Rakhi,44.26,Sweets Box,Joyful,Nervous,Cafe,Peda,2025
+SB-1817,Gabriela,Ronald,Trip to Goa,Zardosi Rakhi,7.99,Sweets Box,Playful,Happy,Online Video Call,Jalebi,2023
+SB-1818,Jennifer,James,Trip to Goa,Cartoon Rakhi,49.13,Chocolate Hamper,Excited,Shocked,College Hostel,Gulab Jamun,2022
+SB-1819,Chloe,David,Fitness Tracker,Silver Rakhi,53.83,Backpack,Playful,Grateful,Cafe,Jalebi,2024
+SB-1820,Jaime,Luke,Designer Handbag,Traditional Rakhi,6.85,Gift Card,Sentimental,Excited,Home,Kaju Katli,2025
+SB-1821,Nancy,Darren,Fitness Tracker,Eco-friendly Rakhi,46.43,Wrist Watch,Joyful,Grateful,Online Video Call,Rasgulla,2023
+SB-1822,Kristen,James,Perfume,Zardosi Rakhi,29.37,Chocolate Hamper,Joyful,Excited,Home,Kaju Katli,2024
+SB-1823,Valerie,John,Books,Kundan Rakhi,35.23,Backpack,Sentimental,Happy,Mall,Jalebi,2024
+SB-1824,Teresa,Jose,Trip to Goa,Lumba Rakhi,7.44,Gift Card,Angry,Happy,College Hostel,Peda,2024
+SB-1825,Michele,Mark,Headphones,Eco-friendly Rakhi,32.42,Bluetooth Speaker,Angry,Happy,Online Video Call,Gulab Jamun,2023
+SB-1826,Emily,Thomas,Perfume,Cartoon Rakhi,40.5,Gift Card,Angry,Happy,Office,Gulab Jamun,2024
+SB-1827,Cynthia,Michael,Fitness Tracker,Bracelet Rakhi,9.12,Cash,Playful,Grateful,Cafe,Peda,2025
+SB-1828,Tara,Thomas,Gold Ring,Kundan Rakhi,18.81,Gift Card,Happy,Shocked,Office,Ladoo,2024
+SB-1829,Jody,Joseph,Fitness Tracker,Zardosi Rakhi,10.52,Wrist Watch,Happy,Grateful,Cafe,Barfi,2024
+SB-1830,Toni,Andrew,Headphones,Cartoon Rakhi,20.58,Gift Card,Happy,Nervous,Online Video Call,Rasgulla,2024
+SB-1831,Jessica,Kyle,Makeup Kit,Cartoon Rakhi,27.88,Custom T-shirt,Angry,Happy,Mall,Jalebi,2025
+SB-1832,Katherine,Matthew,Shopping Voucher,Traditional Rakhi,46.56,Cash,Playful,Nervous,Home,Peda,2022
+SB-1833,Patricia,Christopher,Trip to Goa,Silver Rakhi,36.82,Sneakers,Joyful,Excited,College Hostel,Barfi,2023
+SB-1834,Renee,William,Makeup Kit,Eco-friendly Rakhi,19.65,Cash,Angry,Excited,Office,Rasgulla,2024
+SB-1835,Heidi,Thomas,Makeup Kit,Zardosi Rakhi,21.79,Cash,Joyful,Grateful,Cafe,Ladoo,2025
+SB-1836,Vanessa,Timothy,Fitness Tracker,Bracelet Rakhi,16.36,Backpack,Joyful,Grateful,Mall,Kaju Katli,2024
+SB-1837,Carly,David,Makeup Kit,Lumba Rakhi,25.46,Backpack,Sentimental,Grateful,Home,Peda,2023
+SB-1838,Madison,Michael,Fitness Tracker,Silver Rakhi,16.15,Gift Card,Happy,Grateful,Mall,Barfi,2024
+SB-1839,Stephanie,Frederick,Books,Zardosi Rakhi,53.55,Sweets Box,Sentimental,Surprised,Mall,Ladoo,2024
+SB-1840,Vanessa,Christopher,Perfume,Eco-friendly Rakhi,42.21,Backpack,Sentimental,Shocked,College Hostel,Peda,2023
+SB-1841,Stephanie,Ronald,Makeup Kit,Traditional Rakhi,59.2,Backpack,Angry,Happy,Cafe,Gulab Jamun,2022
+SB-1842,Gloria,Craig,Designer Handbag,Silver Rakhi,44.74,Backpack,Angry,Shocked,Cafe,Peda,2023
+SB-1843,Misty,Timothy,Fitness Tracker,Bracelet Rakhi,20.88,Custom T-shirt,Playful,Nervous,College Hostel,Peda,2022
+SB-1844,Caitlyn,Michael,Perfume,Bracelet Rakhi,56.4,Wrist Watch,Angry,Shocked,Office,Jalebi,2024
+SB-1845,Nicole,Eric,Gold Ring,Traditional Rakhi,29.29,Sneakers,Playful,Surprised,Office,Kaju Katli,2024
+SB-1846,Christine,Nathan,Gold Ring,Traditional Rakhi,14.93,Bluetooth Speaker,Excited,Grateful,Cafe,Rasgulla,2025
+SB-1847,Michelle,James,Smartphone,Silver Rakhi,11.6,Sneakers,Joyful,Grateful,College Hostel,Ladoo,2023
+SB-1848,Gabriella,Zachary,Perfume,Kundan Rakhi,43.48,Chocolate Hamper,Sentimental,Happy,College Hostel,Kaju Katli,2024
+SB-1849,Christine,Timothy,Gold Ring,Eco-friendly Rakhi,25.85,Chocolate Hamper,Sentimental,Grateful,Office,Jalebi,2022
+SB-1850,Marie,Daniel,Designer Handbag,Eco-friendly Rakhi,8.99,Wrist Watch,Playful,Nervous,Office,Barfi,2023
+SB-1851,Brianna,Robert,Perfume,Eco-friendly Rakhi,41.38,Gift Card,Happy,Happy,Office,Rasgulla,2023
+SB-1852,Melissa,John,Makeup Kit,Zardosi Rakhi,9.63,Custom T-shirt,Happy,Shocked,Online Video Call,Ladoo,2023
+SB-1853,Brittney,Christopher,Shopping Voucher,Zardosi Rakhi,41.67,Backpack,Sentimental,Happy,Mall,Barfi,2024
+SB-1854,Sarah,Bruce,Gold Ring,Kundan Rakhi,27.7,Wrist Watch,Happy,Surprised,Home,Peda,2023
+SB-1855,Rachel,Patrick,Fitness Tracker,Lumba Rakhi,49.09,Cash,Angry,Excited,College Hostel,Gulab Jamun,2022
+SB-1856,Amanda,Bruce,Trip to Goa,Cartoon Rakhi,20.99,Sweets Box,Happy,Excited,College Hostel,Rasgulla,2024
+SB-1857,Tina,Jeremy,Smartphone,Cartoon Rakhi,46.68,Chocolate Hamper,Excited,Excited,Home,Gulab Jamun,2025
+SB-1858,Nicole,Gary,Headphones,Bracelet Rakhi,29.47,Custom T-shirt,Excited,Surprised,Home,Gulab Jamun,2022
+SB-1859,Susan,Peter,Gold Ring,Eco-friendly Rakhi,57.1,Cash,Joyful,Grateful,Online Video Call,Jalebi,2023
+SB-1860,Christina,Lawrence,Designer Handbag,Lumba Rakhi,14.97,Wrist Watch,Playful,Nervous,Mall,Gulab Jamun,2025
+SB-1861,Stephanie,Perry,Books,Bracelet Rakhi,23.51,Sneakers,Excited,Nervous,Online Video Call,Peda,2024
+SB-1862,Mary,David,Perfume,Cartoon Rakhi,36.36,Bluetooth Speaker,Angry,Nervous,Mall,Gulab Jamun,2023
+SB-1863,Tammy,Matthew,Books,Lumba Rakhi,44.25,Chocolate Hamper,Sentimental,Grateful,College Hostel,Jalebi,2022
+SB-1864,Christy,Robert,Trip to Goa,Zardosi Rakhi,58.73,Chocolate Hamper,Happy,Excited,Online Video Call,Peda,2024
+SB-1865,Alyssa,Douglas,Books,Eco-friendly Rakhi,40.73,Custom T-shirt,Joyful,Surprised,Mall,Rasgulla,2023
+SB-1866,Alison,Stephen,Headphones,Cartoon Rakhi,17.29,Bluetooth Speaker,Happy,Surprised,Cafe,Ladoo,2024
+SB-1867,Victoria,Scott,Smartphone,Silver Rakhi,43.18,Backpack,Angry,Happy,College Hostel,Peda,2022
+SB-1868,Cynthia,Michael,Perfume,Lumba Rakhi,16.71,Wrist Watch,Angry,Excited,College Hostel,Gulab Jamun,2023
+SB-1869,Stephanie,Mario,Headphones,Lumba Rakhi,41.48,Bluetooth Speaker,Joyful,Nervous,Cafe,Jalebi,2025
+SB-1870,Leslie,Kevin,Books,Traditional Rakhi,10.49,Custom T-shirt,Angry,Nervous,College Hostel,Rasgulla,2023
+SB-1871,Michaela,Carlos,Shopping Voucher,Silver Rakhi,18.43,Bluetooth Speaker,Playful,Surprised,Mall,Jalebi,2023
+SB-1872,Amber,Daniel,Fitness Tracker,Zardosi Rakhi,41.88,Wrist Watch,Sentimental,Happy,Cafe,Gulab Jamun,2025
+SB-1873,Crystal,Chris,Gold Ring,Zardosi Rakhi,41.64,Sweets Box,Happy,Shocked,Cafe,Ladoo,2023
+SB-1874,Rebecca,Jorge,Designer Handbag,Bracelet Rakhi,49.46,Custom T-shirt,Excited,Excited,Home,Rasgulla,2022
+SB-1875,Shannon,Marc,Headphones,Lumba Rakhi,52.79,Cash,Excited,Surprised,Mall,Barfi,2025
+SB-1876,Tammy,Steven,Designer Handbag,Kundan Rakhi,30,Gift Card,Excited,Surprised,College Hostel,Jalebi,2025
+SB-1877,Janet,Patrick,Fitness Tracker,Eco-friendly Rakhi,22.1,Cash,Angry,Shocked,Home,Barfi,2023
+SB-1878,Holly,Jack,Headphones,Cartoon Rakhi,29.66,Backpack,Sentimental,Excited,Mall,Barfi,2024
+SB-1879,Caroline,Douglas,Smartphone,Traditional Rakhi,5.15,Custom T-shirt,Happy,Grateful,Mall,Jalebi,2024
+SB-1880,Kathryn,Mark,Designer Handbag,Bracelet Rakhi,33.26,Chocolate Hamper,Happy,Nervous,College Hostel,Kaju Katli,2025
+SB-1881,Cindy,Kyle,Gold Ring,Bracelet Rakhi,38.47,Custom T-shirt,Excited,Grateful,Home,Gulab Jamun,2022
+SB-1882,Paige,Lawrence,Gold Ring,Zardosi Rakhi,46.17,Wrist Watch,Playful,Grateful,College Hostel,Barfi,2025
+SB-1883,Rachel,Steven,Fitness Tracker,Eco-friendly Rakhi,17.34,Chocolate Hamper,Joyful,Excited,Home,Gulab Jamun,2024
+SB-1884,Carolyn,Albert,Designer Handbag,Kundan Rakhi,11.11,Backpack,Sentimental,Shocked,Office,Barfi,2023
+SB-1885,Susan,Carlos,Makeup Kit,Lumba Rakhi,57.96,Cash,Happy,Happy,Online Video Call,Rasgulla,2025
+SB-1886,Ashley,Aaron,Books,Traditional Rakhi,13.92,Gift Card,Sentimental,Happy,College Hostel,Jalebi,2025
+SB-1887,Dominique,Derek,Smartphone,Silver Rakhi,34.11,Teddy Bear,Sentimental,Surprised,Mall,Gulab Jamun,2025
+SB-1888,Kathleen,Gary,Fitness Tracker,Silver Rakhi,32.71,Backpack,Playful,Nervous,Home,Peda,2025
+SB-1889,Whitney,Patrick,Trip to Goa,Silver Rakhi,38.28,Sweets Box,Angry,Shocked,Online Video Call,Barfi,2022
+SB-1890,Denise,Richard,Trip to Goa,Eco-friendly Rakhi,33.47,Cash,Angry,Surprised,Office,Ladoo,2022
+SB-1891,Jamie,Jeffrey,Smartphone,Eco-friendly Rakhi,47.91,Wrist Watch,Happy,Happy,Office,Barfi,2024
+SB-1892,Rachel,Randy,Makeup Kit,Kundan Rakhi,32,Sneakers,Excited,Shocked,Cafe,Jalebi,2022
+SB-1893,Elizabeth,Justin,Perfume,Eco-friendly Rakhi,5.08,Cash,Playful,Surprised,Office,Barfi,2023
+SB-1894,Tina,Daniel,Designer Handbag,Silver Rakhi,20.65,Backpack,Sentimental,Surprised,Mall,Barfi,2025
+SB-1895,Amanda,Daniel,Shopping Voucher,Eco-friendly Rakhi,9.81,Gift Card,Playful,Excited,Mall,Kaju Katli,2022
+SB-1896,Jessica,Joshua,Shopping Voucher,Eco-friendly Rakhi,12.49,Teddy Bear,Excited,Happy,Mall,Rasgulla,2024
+SB-1897,Elizabeth,Joshua,Headphones,Kundan Rakhi,37.85,Custom T-shirt,Joyful,Excited,Cafe,Ladoo,2023
+SB-1898,Angela,Robert,Makeup Kit,Cartoon Rakhi,51.18,Backpack,Excited,Excited,Office,Ladoo,2023
+SB-1899,Barbara,Thomas,Smartphone,Silver Rakhi,5.06,Backpack,Playful,Grateful,Online Video Call,Gulab Jamun,2024
+SB-1900,Lori,James,Fitness Tracker,Bracelet Rakhi,34.42,Custom T-shirt,Playful,Nervous,College Hostel,Barfi,2023
+SB-1901,Kimberly,Seth,Headphones,Traditional Rakhi,17.2,Gift Card,Playful,Shocked,Mall,Peda,2025
+SB-1902,Shannon,Edward,Smartphone,Kundan Rakhi,5.47,Sweets Box,Angry,Surprised,Cafe,Rasgulla,2022
+SB-1903,Wanda,Jeffrey,Smartphone,Kundan Rakhi,50.62,Custom T-shirt,Angry,Nervous,Online Video Call,Peda,2023
+SB-1904,Alicia,Christopher,Trip to Goa,Bracelet Rakhi,36.2,Teddy Bear,Excited,Nervous,Home,Ladoo,2024
+SB-1905,Valerie,Douglas,Shopping Voucher,Bracelet Rakhi,8.29,Sneakers,Angry,Grateful,Office,Kaju Katli,2022
+SB-1906,Tiffany,Samuel,Designer Handbag,Bracelet Rakhi,28.42,Sneakers,Angry,Excited,Mall,Jalebi,2025
+SB-1907,Robin,Nicholas,Gold Ring,Bracelet Rakhi,11.98,Bluetooth Speaker,Sentimental,Shocked,College Hostel,Gulab Jamun,2022
+SB-1908,Pamela,Daniel,Smartphone,Zardosi Rakhi,32.27,Cash,Playful,Nervous,College Hostel,Ladoo,2025
+SB-1909,Diana,Brandon,Makeup Kit,Bracelet Rakhi,28.45,Chocolate Hamper,Joyful,Shocked,Mall,Kaju Katli,2025
+SB-1910,Amy,Jeffery,Designer Handbag,Lumba Rakhi,30.05,Custom T-shirt,Playful,Grateful,College Hostel,Jalebi,2022
+SB-1911,Caroline,Michael,Shopping Voucher,Lumba Rakhi,12.98,Sweets Box,Joyful,Surprised,Online Video Call,Barfi,2022
+SB-1912,Jessica,Christopher,Shopping Voucher,Kundan Rakhi,52.66,Teddy Bear,Joyful,Grateful,College Hostel,Peda,2022
+SB-1913,Victoria,Henry,Fitness Tracker,Zardosi Rakhi,54.75,Chocolate Hamper,Excited,Shocked,Office,Jalebi,2022
+SB-1914,Andrea,Marcus,Gold Ring,Bracelet Rakhi,50.08,Backpack,Happy,Happy,College Hostel,Barfi,2024
+SB-1915,Jessica,Chad,Trip to Goa,Kundan Rakhi,26.12,Backpack,Excited,Shocked,Home,Peda,2025
+SB-1916,Amanda,Jonathan,Shopping Voucher,Traditional Rakhi,10.5,Backpack,Playful,Excited,Office,Jalebi,2024
+SB-1917,Jill,Stephen,Makeup Kit,Bracelet Rakhi,43.27,Backpack,Sentimental,Shocked,Mall,Jalebi,2023
+SB-1918,Kristen,Matthew,Books,Traditional Rakhi,51,Gift Card,Excited,Happy,Home,Barfi,2025
+SB-1919,Amber,Bruce,Books,Kundan Rakhi,46.38,Backpack,Playful,Nervous,Home,Kaju Katli,2022
+SB-1920,Tammy,Carlos,Shopping Voucher,Bracelet Rakhi,14.31,Backpack,Happy,Surprised,Online Video Call,Jalebi,2024
+SB-1921,Barbara,Christopher,Trip to Goa,Traditional Rakhi,10.08,Gift Card,Joyful,Grateful,Mall,Peda,2022
+SB-1922,Ashley,John,Gold Ring,Eco-friendly Rakhi,13.36,Chocolate Hamper,Sentimental,Excited,College Hostel,Jalebi,2023
+SB-1923,Latoya,Timothy,Fitness Tracker,Silver Rakhi,41.11,Wrist Watch,Joyful,Shocked,Office,Gulab Jamun,2023
+SB-1924,Tracey,Wyatt,Shopping Voucher,Zardosi Rakhi,5.14,Sneakers,Angry,Nervous,Office,Peda,2024
+SB-1925,Debbie,Chris,Shopping Voucher,Kundan Rakhi,26.35,Sweets Box,Excited,Grateful,Cafe,Rasgulla,2025
+SB-1926,Erica,Ian,Makeup Kit,Bracelet Rakhi,28.54,Sweets Box,Excited,Grateful,Home,Ladoo,2022
+SB-1927,Elizabeth,Randall,Makeup Kit,Silver Rakhi,31.64,Backpack,Playful,Excited,Home,Gulab Jamun,2025
+SB-1928,Cynthia,David,Headphones,Bracelet Rakhi,58.59,Cash,Happy,Grateful,College Hostel,Peda,2023
+SB-1929,Emily,Mark,Headphones,Cartoon Rakhi,56.41,Backpack,Happy,Surprised,College Hostel,Gulab Jamun,2023
+SB-1930,Michelle,Manuel,Gold Ring,Eco-friendly Rakhi,41.74,Cash,Sentimental,Nervous,Cafe,Gulab Jamun,2022
+SB-1931,Sara,Anthony,Trip to Goa,Lumba Rakhi,39.6,Backpack,Sentimental,Excited,College Hostel,Jalebi,2022
+SB-1932,Cynthia,Sean,Fitness Tracker,Cartoon Rakhi,45.22,Sneakers,Happy,Surprised,Online Video Call,Barfi,2023
+SB-1933,Kimberly,Robert,Trip to Goa,Zardosi Rakhi,16.71,Sweets Box,Happy,Grateful,Online Video Call,Kaju Katli,2025
+SB-1934,Amber,John,Headphones,Cartoon Rakhi,35.37,Cash,Angry,Grateful,Office,Jalebi,2025
+SB-1935,Nancy,Timothy,Headphones,Traditional Rakhi,20.73,Cash,Playful,Surprised,Cafe,Kaju Katli,2025
+SB-1936,Amanda,Austin,Books,Silver Rakhi,55.65,Gift Card,Angry,Surprised,Cafe,Kaju Katli,2024
+SB-1937,Danielle,Daniel,Shopping Voucher,Traditional Rakhi,58.88,Backpack,Playful,Happy,Cafe,Barfi,2025
+SB-1938,Shelley,Nicholas,Headphones,Lumba Rakhi,5.04,Sweets Box,Excited,Nervous,College Hostel,Ladoo,2025
+SB-1939,Jessica,Paul,Gold Ring,Cartoon Rakhi,10.7,Cash,Sentimental,Excited,Online Video Call,Peda,2024
+SB-1940,Amy,Eric,Shopping Voucher,Cartoon Rakhi,17.97,Cash,Excited,Happy,Home,Gulab Jamun,2024
+SB-1941,Evelyn,Ryan,Headphones,Zardosi Rakhi,15.21,Sneakers,Joyful,Nervous,Office,Kaju Katli,2023
+SB-1942,Heather,Wesley,Books,Lumba Rakhi,43.51,Sneakers,Joyful,Nervous,Home,Gulab Jamun,2025
+SB-1943,Pamela,Daniel,Smartphone,Bracelet Rakhi,40.27,Custom T-shirt,Angry,Surprised,Online Video Call,Barfi,2023
+SB-1944,Heather,Danny,Trip to Goa,Lumba Rakhi,26.23,Chocolate Hamper,Playful,Nervous,College Hostel,Ladoo,2024
+SB-1945,Gina,Luis,Books,Bracelet Rakhi,21.05,Backpack,Joyful,Shocked,Office,Gulab Jamun,2025
+SB-1946,Rachel,James,Trip to Goa,Lumba Rakhi,17.71,Cash,Playful,Excited,Home,Peda,2022
+SB-1947,Angela,James,Perfume,Cartoon Rakhi,35.33,Cash,Happy,Grateful,Cafe,Kaju Katli,2025
+SB-1948,Diane,Karl,Makeup Kit,Traditional Rakhi,25.95,Gift Card,Angry,Grateful,Cafe,Jalebi,2025
+SB-1949,Dawn,Donald,Shopping Voucher,Zardosi Rakhi,18.48,Gift Card,Joyful,Surprised,Home,Gulab Jamun,2023
+SB-1950,Yesenia,Christian,Headphones,Zardosi Rakhi,12.68,Cash,Excited,Excited,Office,Kaju Katli,2023
+SB-1951,Jessica,Darius,Smartphone,Cartoon Rakhi,17.3,Cash,Sentimental,Shocked,Office,Barfi,2022
+SB-1952,Madison,Jacob,Smartphone,Eco-friendly Rakhi,40.59,Sneakers,Sentimental,Shocked,College Hostel,Kaju Katli,2023
+SB-1953,Allison,Michael,Smartphone,Traditional Rakhi,53.49,Wrist Watch,Joyful,Grateful,Office,Kaju Katli,2023
+SB-1954,Kimberly,Thomas,Gold Ring,Zardosi Rakhi,56.13,Wrist Watch,Sentimental,Surprised,Home,Kaju Katli,2022
+SB-1955,Samantha,Roy,Smartphone,Kundan Rakhi,28.65,Sneakers,Happy,Grateful,Office,Barfi,2022
+SB-1956,Holly,Curtis,Makeup Kit,Lumba Rakhi,56.05,Chocolate Hamper,Angry,Grateful,Home,Gulab Jamun,2023
+SB-1957,Veronica,Kyle,Shopping Voucher,Kundan Rakhi,42.85,Gift Card,Playful,Excited,Mall,Gulab Jamun,2022
+SB-1958,Heather,Douglas,Smartphone,Bracelet Rakhi,37.52,Backpack,Excited,Shocked,Cafe,Gulab Jamun,2024
+SB-1959,Katelyn,Edward,Smartphone,Zardosi Rakhi,9.1,Cash,Angry,Grateful,Home,Rasgulla,2022
+SB-1960,Kim,Charles,Fitness Tracker,Silver Rakhi,58.41,Gift Card,Playful,Grateful,College Hostel,Peda,2023
+SB-1961,Jacqueline,Samuel,Books,Silver Rakhi,22.81,Chocolate Hamper,Playful,Grateful,College Hostel,Gulab Jamun,2025
+SB-1962,Elizabeth,Charles,Books,Eco-friendly Rakhi,9.17,Sneakers,Excited,Shocked,Home,Gulab Jamun,2023
+SB-1963,Diana,Edward,Designer Handbag,Kundan Rakhi,49.78,Custom T-shirt,Sentimental,Excited,Mall,Gulab Jamun,2023
+SB-1964,Colleen,Gregory,Books,Bracelet Rakhi,45.36,Bluetooth Speaker,Playful,Shocked,College Hostel,Peda,2025
+SB-1965,Tina,Benjamin,Perfume,Traditional Rakhi,46.48,Chocolate Hamper,Happy,Excited,Online Video Call,Jalebi,2023
+SB-1966,Linda,Roger,Books,Zardosi Rakhi,33.08,Bluetooth Speaker,Angry,Surprised,Mall,Kaju Katli,2023
+SB-1967,Shannon,Edward,Fitness Tracker,Silver Rakhi,42.25,Chocolate Hamper,Sentimental,Shocked,Cafe,Ladoo,2023
+SB-1968,Mary,Michael,Books,Kundan Rakhi,14.75,Bluetooth Speaker,Playful,Grateful,College Hostel,Jalebi,2022
+SB-1969,Jennifer,David,Fitness Tracker,Kundan Rakhi,20.19,Teddy Bear,Angry,Surprised,Home,Rasgulla,2025
+SB-1970,Karen,David,Headphones,Silver Rakhi,13.57,Bluetooth Speaker,Sentimental,Surprised,Home,Gulab Jamun,2023
+SB-1971,Christina,Robert,Books,Traditional Rakhi,9.51,Chocolate Hamper,Excited,Shocked,Office,Rasgulla,2023
+SB-1972,Cathy,Zachary,Makeup Kit,Bracelet Rakhi,36.94,Sweets Box,Excited,Nervous,Cafe,Peda,2024
+SB-1973,Yesenia,Richard,Smartphone,Zardosi Rakhi,53.92,Backpack,Angry,Grateful,College Hostel,Peda,2024
+SB-1974,Sandra,Benjamin,Trip to Goa,Bracelet Rakhi,24.3,Sneakers,Sentimental,Surprised,Home,Peda,2023
+SB-1975,Janet,Mark,Books,Cartoon Rakhi,38.42,Wrist Watch,Joyful,Excited,Home,Jalebi,2023
+SB-1976,Sandra,Todd,Shopping Voucher,Lumba Rakhi,7.38,Wrist Watch,Joyful,Happy,Online Video Call,Ladoo,2024
+SB-1977,Kelly,Carl,Gold Ring,Silver Rakhi,30.4,Sneakers,Joyful,Shocked,Home,Barfi,2024
+SB-1978,Sarah,Frank,Books,Lumba Rakhi,45.81,Custom T-shirt,Angry,Happy,Online Video Call,Barfi,2024
+SB-1979,Tara,Ryan,Perfume,Kundan Rakhi,56.48,Cash,Sentimental,Excited,College Hostel,Peda,2024
+SB-1980,Mary,Clarence,Smartphone,Zardosi Rakhi,37.36,Teddy Bear,Excited,Shocked,College Hostel,Peda,2024
+SB-1981,Nina,Stephen,Trip to Goa,Cartoon Rakhi,12.56,Wrist Watch,Angry,Shocked,Home,Peda,2025
+SB-1982,Nicole,Nicholas,Headphones,Silver Rakhi,48.11,Chocolate Hamper,Joyful,Shocked,College Hostel,Ladoo,2022
+SB-1983,Tracy,Richard,Smartphone,Lumba Rakhi,26.87,Cash,Sentimental,Nervous,Mall,Gulab Jamun,2024
+SB-1984,Rebecca,William,Smartphone,Zardosi Rakhi,11.54,Sweets Box,Excited,Happy,Cafe,Jalebi,2023
+SB-1985,Laura,Kenneth,Perfume,Silver Rakhi,12.03,Teddy Bear,Happy,Nervous,Office,Peda,2023
+SB-1986,Jennifer,Michael,Gold Ring,Zardosi Rakhi,45.62,Gift Card,Sentimental,Happy,Online Video Call,Gulab Jamun,2022
+SB-1987,Melissa,George,Shopping Voucher,Lumba Rakhi,20.44,Wrist Watch,Happy,Grateful,Cafe,Kaju Katli,2025
+SB-1988,Stephanie,Nathan,Perfume,Lumba Rakhi,13.67,Sneakers,Angry,Shocked,College Hostel,Barfi,2022
+SB-1989,Brittany,Michael,Perfume,Eco-friendly Rakhi,5.08,Sweets Box,Angry,Shocked,Online Video Call,Barfi,2023
+SB-1990,Brooke,Daniel,Perfume,Eco-friendly Rakhi,59.83,Sneakers,Happy,Grateful,College Hostel,Barfi,2023
+SB-1991,Ana,Eric,Books,Cartoon Rakhi,59.1,Sweets Box,Happy,Shocked,Online Video Call,Rasgulla,2022
+SB-1992,Tricia,Clayton,Gold Ring,Zardosi Rakhi,23.97,Wrist Watch,Angry,Surprised,Cafe,Kaju Katli,2023
+SB-1993,Rebecca,Isaac,Smartphone,Kundan Rakhi,27.29,Chocolate Hamper,Excited,Shocked,Online Video Call,Gulab Jamun,2025
+SB-1994,Jessica,Jacob,Headphones,Zardosi Rakhi,32.09,Sneakers,Excited,Grateful,Office,Jalebi,2022
+SB-1995,Caitlin,Dennis,Books,Traditional Rakhi,28.9,Wrist Watch,Happy,Shocked,College Hostel,Barfi,2024
+SB-1996,Helen,John,Fitness Tracker,Traditional Rakhi,58.71,Bluetooth Speaker,Playful,Surprised,Office,Barfi,2023
+SB-1997,Victoria,Benjamin,Smartphone,Eco-friendly Rakhi,43.96,Chocolate Hamper,Playful,Surprised,College Hostel,Jalebi,2025
+SB-1998,Courtney,Richard,Headphones,Eco-friendly Rakhi,44.5,Sweets Box,Angry,Happy,College Hostel,Rasgulla,2025
+SB-1999,Allison,Eric,Perfume,Silver Rakhi,28.99,Bluetooth Speaker,Excited,Surprised,Cafe,Kaju Katli,2023
+SB-2000,Laura,Charles,Shopping Voucher,Eco-friendly Rakhi,43.61,Cash,Excited,Excited,Home,Gulab Jamun,2022
